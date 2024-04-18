@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lab 11a</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
+  <!--The React JS libraries -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <!--Initially, we will use the babel run-time library to convert JSX in the browser -->
+  <script src="https://unpkg.com/babel-standalone/babel.min.js"></script>
+
+
+  <script type="text/babel">
+    /* There are several ways of creating a React component.
+    Here we are using a ES6 class */
+    function Company() {
+      return (
+        <article className="box media ">
+          <div className="media-left">
+            <figure className="image is-128x128">
+              <img src="images/FB.svg" />
+            </figure>
+          </div>
+          <div className="media-content">
+            <h2>Facebook</h2>
+            <p><strong>Symbol:</strong> FB</p>
+            <p><strong>Sector:</strong> Internet Software and
+              Services</p>
+            <p><strong>HQ:</strong> Menlo Park, California</p>
+          </div>
+          <div className="media-right">
+            <button className="button is-link">Edit</button>
+          </div>
+        </article>
+      );
+    }
+    /*
+    We now need to add the just-defined component to the browser DOM
+    */
+    const container = document.querySelector('#react-container');
+    ReactDOM.createRoot(container).render(<Company />);
+  </script>
+
+
+</head>
+
+<body>
+
+  <main class="container">
+    <section class="hero is-primary is-small has-background-link">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">
+            React Tutorial
+          </h1>
+          <h2 class="subtitle">
+            Defining a component using JSX (function version)
+          </h2>
+        </div>
+      </div>
+    </section>
+
+    <section id='react-container' class="content box "></section>
+  </main>
+
+</body>
+
+</html>

@@ -1,247 +1,608 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.icte.2023.12.008
+  title: QUIC website fingerprinting based on automated machine learning
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Joonseo Ha
+  - Heejun Roh
+  publisher: ICT Express
+  date: '2024-06-20'
+  link: https://doi.org/g86qn7
+  orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
+  description: Recently, QUIC for the secure and faster connections has standardized
+    but it is unclear that QUIC can cope with website fingerprinting (WF), a technique
+    to infer visited websites from network traffic, since most existing efforts targeted
+    TCP-induced traffic. To this end, we propose a novel QUIC WF technique based on
+    Automated Machine Learning (AutoML). In our approach, we revisit traffic features
+    appeared in literature, but relies on an AutoML framework to achieve best practice
+    without manual intervention. Through experiments, we show that our technique outperforms
+    state-of-the-art WF techniques with an F1-score of 99.79% and a 20-precision of
+    92.60%.
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405959523001662-gr1.jpg
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.3390/app12010155
+  title: A Survey on TLS-Encrypted Malware Network Traffic Analysis Applicable to
+    Security Operations Centers
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Chaeyeon Oh
+  - Joonseo Ha
+  - Heejun Roh
+  publisher: Applied Sciences
+  date: '2021-12-24'
+  link: https://doi.org/g86qn8
+  orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1109/ACCESS.2022.3201648
+  title: Combating Adversarial Covert Channels in Wi-Fi Networks
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Hoorin Park
+  - Wonwoo Jang
+  - Jekyung Sung
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g86qn9
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/9668973/9866753/lee1-3201648-small.gif
+- id: doi:10.1109/ICTC55196.2022.9952872
+  title: Revisiting TLS-Encrypted Traffic Fingerprinting Methods for Malware Family
+    Classification
+  authors:
+  - Hyundo Kim
+  - Minsu Kim
+  - Joonseo Ha
+  - Heejun Roh
+  publisher: 2022 13th International Conference on Information and Communication Technology
+    Convergence (ICTC)
+  date: '2022-10-19'
+  link: https://doi.org/g86qpb
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/electronics10243180
+  title: Experimental Evaluation of Malware Family Classification Methods from Sequential
+    Information of TLS-Encrypted Traffic
+  authors:
+  - Joonseo Ha
+  - Heejun Roh
+  publisher: Electronics
+  date: '2021-12-20'
+  link: https://doi.org/gqtrt2
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LCOMM.2020.3038255
+  title: Predictive Prefetching Based on User Interaction for Web Applications
+  authors:
+  - Minwoo Joo
+  - Yeonoh An
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Communications Letters
+  date: '2021-03-01'
+  link: https://doi.org/g86qpc
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICOIN50884.2021.9333996
+  title: Revisiting Bluetooth Adaptive Frequency Hopping Prediction with a Ubertooth
+  authors:
+  - Janggoon Lee
+  - Chanhee Park
+  - Heejun Roh
+  publisher: 2021 International Conference on Information Networking (ICOIN)
+  date: '2021-01-13'
+  link: https://doi.org/g86qpd
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/en14040928
+  title: Revisiting Adaptive Frequency Hopping Map Prediction in Bluetooth with Machine
+    Learning Classifiers
+  authors:
+  - Janggoon Lee
+  - Chanhee Park
+  - Heejun Roh
+  publisher: Energies
+  date: '2021-02-10'
+  link: https://doi.org/g86qpf
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TNET.2020.2989387
+  title: 'PolarScout: Wi-Fi Interference-Resilient ZigBee Communication via Shell-Shaping'
+  authors:
+  - Chenglong Shao
+  - Hoorin Park
+  - Heejun Roh
+  - Wonjun Lee
+  - Hyoil Kim
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2020-08-01'
+  link: https://doi.org/g86qpg
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOMWKSHPS50562.2020.9162971
+  title: 'Poster Abstract: Encrypted Malware Traffic Detection Using Incremental Learning'
+  authors:
+  - Insup Lee
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops
+    (INFOCOM WKSHPS)
+  date: '2020-07-01'
+  link: https://doi.org/gkrhfg
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFOCOMWKSHPS50562.2020.9162658
+  title: 'Poster Abstract: Suppressing CSI Leakage in Multi-user MIMO Networks via
+    Precoding'
+  authors:
+  - Seoungbin Bae
+  - Youngki Kim
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops
+    (INFOCOM WKSHPS)
+  date: '2020-07-01'
+  link: https://doi.org/g86qph
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICNP49622.2020.9259387
+  title: 'Poster: Feasibility of Malware Traffic Analysis through TLS-Encrypted Flow
+    Visualization'
+  authors:
+  - Dongeon Kim
+  - Jihun Han
+  - Jinwoo Lee
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: 2020 IEEE 28th International Conference on Network Protocols (ICNP)
+  date: '2020-10-13'
+  link: https://doi.org/grbnmf
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JIOT.2020.2972915
+  title: 'Tagora: A Collision-Exploitative RFID Authentication Protocol Based on Cross-Layer
+    Approach'
+  authors:
+  - Hoorin Park
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Internet of Things Journal
+  date: '2020-04-01'
+  link: https://doi.org/gqszxr
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/access.2019.2957434
+  title: Secure and Lightweight Subflow Establishment of Multipath-TCP
+  authors:
+  - Gunhee Noh
+  - Hoorin Park
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Access
+  date: '2019-01-01'
+  link: https://doi.org/g86qpj
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LWC.2018.2863294
+  title: 'DOTA: Physical-Layer Decomposing and Threading for ZigBee/Wi-Fi Co-Transmission'
+  authors:
+  - Chenglong Shao
+  - Hoorin Park
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Wireless Communications Letters
+  date: '2019-02-01'
+  link: https://doi.org/g86qpk
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tmc.2019.2955080
+  title: 'BuSAR: Bluetooth Slot Availability Randomization for Better Coexistence
+    With Dense Wi-Fi Networks'
+  authors:
+  - Chenglong Shao
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-03-01'
+  link: https://doi.org/g86qpm
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jnca.2018.08.011
+  title: 'Next-generation RF-powered networks for Internet of Things: Architecture
+    and research perspectives'
+  authors:
+  - Chenglong Shao
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: Journal of Network and Computer Applications
+  date: '2018-12-01'
+  link: https://doi.org/g86qpn
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2017.2755638
+  title: A Software-Based Monitoring Framework for Time-Space Partitioned Avionics
+    Systems
+  authors:
+  - Changmin Shin
+  - Chaedeok Lim
+  - Joongheon Kim
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Access
+  date: '2017-01-01'
+  link: https://doi.org/gvb6jt
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LCOMM.2017.2676773
+  title: 'SCBF: Exploiting a Collision for Authentication in Backscatter Networks'
+  authors:
+  - Hoorin Park
+  - Jieun Yu
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Communications Letters
+  date: '2017-06-01'
+  link: https://doi.org/gbj667
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MVT.2016.2604409
+  title: 'The Useful Impact of Carrier Aggregation: A Measurement Study in South Korea
+    for Commercial LTE-Advanced Networks'
+  authors:
+  - Sangmin Lee
+  - Seungheon Hyeon
+  - Joongheon Kim
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Vehicular Technology Magazine
+  date: '2017-03-01'
+  link: https://doi.org/gdgwcf
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jnca.2016.12.006
+  title: Joint flow and virtual machine placement in hybrid cloud data centers
+  authors:
+  - Heejun Roh
+  - Cheoulhoon Jung
+  - Kyunghwi Kim
+  - Sangheon Pack
+  - Wonjun Lee
+  publisher: Journal of Network and Computer Applications
+  date: '2017-05-01'
+  link: https://doi.org/g86qpp
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCE.2016.7514670
+  title: Multisource wireless energy harvesting-based medium access control for rechargeable
+    sensors
+  authors:
+  - Chenglong Shao
+  - Heejun Roh
+  - Taekyung Kim
+  - Wonjun Lee
+  publisher: IEEE Transactions on Consumer Electronics
+  date: '2016-05-01'
+  link: https://doi.org/g86qpq
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-60717-7_14
+  title: Flow and Virtual Machine Placement in Wireless Cloud Data Centers
+  authors:
+  - Heejun Roh
+  - Kyunghwi Kim
+  - Sangheon Pack
+  - Wonjun Lee
+  publisher: Lecture Notes of the Institute for Computer Sciences, Social Informatics
+    and Telecommunications Engineering
+  date: '2017-01-01'
+  link: https://doi.org/g8fs8g
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICTC.2015.7354607
+  title: Client selection for coordinated IEEE 802.11ac multi-user MIMO-enabled access
+    points
+  authors:
+  - Seongyong Jeong
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: 2015 International Conference on Information and Communication Technology
+    Convergence (ICTC)
+  date: '2015-10-01'
+  link: https://doi.org/g86qpr
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOMW.2015.7179338
+  title: Feasibility of a low-cost Tx-Rx separated reader system for RF-powered computers
+  authors:
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: 2015 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+  date: '2015-04-01'
+  link: https://doi.org/g75mk9
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LCOMM.2013.112613.132085
+  title: Aspiration Level-Based Strategy Dynamics on the Coexistence of Spectrum Cooperation
+    and Leasing
+  authors:
+  - Chenglong Shao
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Communications Letters
+  date: '2014-01-01'
+  link: https://doi.org/f5t6q5
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/wcm.1128
+  title: "PND: a p\u2010persistent neighbor discovery protocol in wireless networks"
+  authors:
+  - Kyunghwi Kim
+  - Heejun Roh
+  - Wonjun Lee
+  - Sinjae Lee
+  - "Ding\u2010Zhu Du"
+  publisher: Wireless Communications and Mobile Computing
+  date: '2011-03-31'
+  link: https://doi.org/cs6m86
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOM.2013.6566947
+  title: Resource pricing game in geo-distributed clouds
+  authors:
+  - Heejun Roh
+  - Cheoulhoon Jung
+  - Wonjun Lee
+  - Ding-Zhu Du
+  publisher: 2013 Proceedings IEEE INFOCOM
+  date: '2013-04-01'
+  link: https://doi.org/gsv62q
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOMW.2013.6970752
+  title: Secondary user games with spectrum leasing market in cooperative cognitive
+    radio networks
+  authors:
+  - Heejun Roh
+  - Chenglong Shao
+  - Sinjae Lee
+  - Wonjun Lee
+  - Ding-Zhu Du
+  publisher: 2013 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+  date: '2013-04-01'
+  link: https://doi.org/g86qps
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCNC.2013.6504211
+  title: A stackelberg game for cooperative cognitive radio network with active SUs
+  authors:
+  - ' Heejun Roh'
+  - ' Cheoulhoon Jung'
+  - ' Wonjun Lee'
+  - ' Ding-Zhu Du'
+  publisher: 2013 International Conference on Computing, Networking and Communications
+    (ICNC)
+  date: '2013-01-01'
+  link: https://doi.org/g86qpt
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: 'doi: 10.1109/ICOIN.2013.6496408'
+  title: Price-based tethering for cooperative networking
+  authors: []
+  publisher: The International Conference on Information Networking 2013 (ICOIN)
+  date: '2013-01-01'
+  link: https://doi.org/ 10.1109/icoin.2013.6496408
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JSAC.2012.121022
+  title: Topology Control in Cooperative Wireless Ad-Hoc Networks
+  authors:
+  - Jieun Yu
+  - Heejun Roh
+  - Wonjun Lee
+  - Sangheon Pack
+  - Ding-Zhu Du
+  publisher: IEEE Journal on Selected Areas in Communications
+  date: '2012-10-01'
+  link: https://doi.org/g86qpv
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1587/transcom.E95.B.2956
+  title: A Price-Based Spectrum Management Scheme with Stackelberg Game in Cooperative
+    Cognitive Radio Networks
+  authors:
+  - Heejun ROH
+  - Hoorin PARK
+  - Cheoulhoon JUNG
+  - Ding-Zhu DU
+  - Wonjun LEE
+  publisher: IEICE Transactions on Communications
+  date: '2012-01-01'
+  link: https://doi.org/gjhbfb
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2012/156590
+  title: Tree-Based Neighbor Discovery in Urban Vehicular Sensor Networks
+  authors:
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: International Journal of Distributed Sensor Networks
+  date: '2012-01-01'
+  link: https://doi.org/fzbkxp
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2079327.2079335
+  title: A Stackelberg game for spectrum investment and pricing in cooperative cognitive
+    radio networks
+  authors:
+  - Heejun Roh
+  - Hoorin Park
+  - Cheoulhoon Jung
+  - Wonjun Lee
+  publisher: Proceedings of The ACM CoNEXT Student Workshop
+  date: '2011-12-06'
+  link: https://doi.org/fxsbz9
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/1923641.1923651
+  title: CMAC-ORS
+  authors:
+  - Soungwoo Kim
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: ACM SIGMOBILE Mobile Computing and Communications Review
+  date: '2010-12-27'
+  link: https://doi.org/fh2sds
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-642-14654-1_21
+  title: Delay Minimization of Tree-Based Neighbor Discovery in Mobile Robot Networks
+  authors:
+  - Heejun Roh
+  - Kyunghwi Kim
+  - Wonjun Lee
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
+  link: https://doi.org/d3db52
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICUFN.2010.5547228
+  title: Minimizing the joining delay for cooperation in mobile robot networks
+  authors:
+  - ' Kyunghwi Kim'
+  - ' Heejun Roh'
+  - Wonjun Lee
+  publisher: 2010 Second International Conference on Ubiquitous and Future Networks
+    (ICUFN)
+  date: '2010-06-01'
+  link: https://doi.org/bhqwt9
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1587/transcom.E93.B.1029
+  title: Topology Control for Increasing Connectivity in Cooperative Wireless Ad Hoc
+    Networks
+  authors:
+  - Jieun YU
+  - Heejun ROH
+  - Jun CAO
+  - Sangheon PACK
+  - Wonjun LEE
+  - Ding-Zhu DU
+  - Sangjin (Stephen) HONG
+  publisher: IEICE Transactions on Communications
+  date: '2010-01-01'
+  link: https://doi.org/b9rw59
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOM.2010.5462126
+  title: 'Cooperative Bridges: Topology Control in Cooperative Wireless Ad Hoc Networks'
+  authors:
+  - Jieun Yu
+  - Heejun Roh
+  - Wonjun Lee
+  - Sangheon Pack
+  - Ding-Zhu Du
+  publisher: 2010 Proceedings IEEE INFOCOM
+  date: '2010-03-01'
+  link: https://doi.org/b3cvs2
+  orcid: 0000-0002-6432-3234
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3745/PKIPS.y2024m05a.114
+  title: A method to speed up container deployments on edge clouds
+  authors:
+  - Seungmin Lee
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: Annual Conference of KIPS
+  date: '2024-05-23'
+  link: https://doi.org/g86qpw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.13089/JKIISC.2023.33.2.267
+  title: A Preemptive Detection Method for Unknown IoT Botnet Based on Darknet Traffic
+  authors:
+  - Gunyang Park
+  - Jungsuk Song
+  - Heejun Roh
+  publisher: Journal of the Korea Institute of Information Security & Cryptology
+  date: '2023-04-30'
+  link: https://doi.org/g86qpx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMC.2019.2955080
+  title: 'BuSAR: Bluetooth Slot Availability Randomization for Better Coexistence
+    With Dense Wi-Fi Networks'
+  authors:
+  - Chenglong Shao
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2021-03-01'
+  link: https://doi.org/g86qpm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2019.2957434
+  title: Secure and Lightweight Subflow Establishment of Multipath-TCP
+  authors:
+  - Gunhee Noh
+  - Hoorin Park
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: IEEE Access
+  date: '2019-01-01'
+  link: https://doi.org/g86qpj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICOIN.2013.6496408
+  title: Price-based tethering for cooperative networking
+  authors:
+  - ' Jisub Lee'
+  - ' Chenglong Shao'
+  - ' Heejun Roh'
+  - ' Wonjun Lee'
+  publisher: The International Conference on Information Networking 2013 (ICOIN)
+  date: '2013-01-01'
+  link: https://doi.org/g86qpz
   plugin: sources.py
   file: sources.yaml

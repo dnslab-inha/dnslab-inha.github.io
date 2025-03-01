@@ -21,5 +21,5 @@ watchmedo shell-command \
     --debug-force-polling \
     --recursive \
     --wait \
-    --command="python3 _cite/cite.py" \
+    --command="/app/venv/bin/python3 _cite/cite.py" \
     --patterns="_data/sources*;_data/orcid*;_data/pubmed*;_data/google-scholar*" \

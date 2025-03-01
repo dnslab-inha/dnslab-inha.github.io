@@ -1,8 +1,8 @@
 ---
-title: Team
+title: Members
 nav:
-  order: 3
-  tooltip: About our team
+  order: 4
+  tooltip: About our DNSLab Members
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team

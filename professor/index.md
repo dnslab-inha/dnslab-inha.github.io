@@ -5,4 +5,4 @@ nav:
   tooltip: About Prof. Heejun Roh
 ---
 
-{% include /hjroh.html %}
+{% flexible_include file="path" hjroh.html %}

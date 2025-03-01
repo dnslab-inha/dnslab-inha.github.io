@@ -1,23 +1,51 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.3745/PKIPS.y2024m05a.114
+- id: doi:10.13089/JKIISC.2023.33.2.267
+- id: doi:10.1016/j.icte.2023.12.008
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
+  description: Recently, QUIC for the secure and faster connections has standardized but it is unclear that QUIC can cope with website fingerprinting (WF), a technique to infer visited websites from network traffic, since most existing efforts targeted TCP-induced traffic. To this end, we propose a novel QUIC WF technique based on Automated Machine Learning (AutoML). In our approach, we revisit traffic features appeared in literature, but relies on an AutoML framework to achieve best practice without manual intervention. Through experiments, we show that our technique outperforms state-of-the-art WF techniques with an F1-score of 99.79% and a 20-precision of 92.60%.
+  date: 2024-06-20
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405959523001662-gr1.jpg
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1109/ACCESS.2022.3201648
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/9668973/9866753/lee1-3201648-small.gif
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1109/ICTC55196.2022.9952872
+- id: doi:10.3390/electronics10243180
+- id: doi:10.3390/app12010155
+- id: doi:10.3390/en14040928
+- id: doi:10.1109/LCOMM.2020.3038255
+- id: doi:10.1109/TMC.2019.2955080
+- id: doi:10.1109/ICOIN50884.2021.9333996
+- id: doi:10.1109/JIOT.2020.2972915
+- id: doi:10.1109/TNET.2020.2989387
+- id: doi:10.1109/ICNP49622.2020.9259387
+- id: doi:10.1109/INFOCOMWKSHPS50562.2020.9162971
+- id: doi:10.1109/INFOCOMWKSHPS50562.2020.9162658
+- id: doi:10.1109/ACCESS.2019.2957434
+- id: doi:10.1109/LWC.2018.2863294
+- id: doi:10.1016/j.jnca.2018.08.011
+- id: doi:10.1109/ACCESS.2017.2755638
+- id: doi:10.1109/LCOMM.2017.2676773
+- id: doi:10.1016/j.jnca.2016.12.006
+- id: doi:10.1109/MVT.2016.2604409
+- id: doi:10.1109/TCE.2016.7514670
+- id: doi:10.1007/978-3-319-60717-7_14
+- id: doi:10.1109/ICTC.2015.7354607
+- id: doi:10.1109/INFCOMW.2015.7179338
+- id: doi:10.1109/LCOMM.2013.112613.132085
+- id: doi:10.1002/wcm.1128
+- id: doi:10.1109/ICCNC.2013.6504211
+- id: doi:10.1109/ICOIN.2013.6496408
+- id: doi:10.1109/INFCOM.2013.6566947
+- id: doi:10.1587/transcom.E95.B.2956
+- id: doi:10.1155/2012/156590
+- id: doi:10.1109/JSAC.2012.121022
+- id: doi:10.1145/2079327.2079335
+- id: doi:10.1587/transcom.E93.B.1029
+- id: doi:10.1145/1923641.1923651
+- id: doi:10.1109/INFCOM.2010.5462126
+- id: doi:10.1007/978-3-642-14654-1_21
+
+
+

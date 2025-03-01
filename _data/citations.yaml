@@ -6,23 +6,11 @@
   - Joonseo Ha
   - Heejun Roh
   publisher: ICT Express
-  date: '2024-06-20'
+  date: '2024-06-01'
   link: https://doi.org/g86qn7
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Recently, QUIC for the secure and faster connections has standardized
-    but it is unclear that QUIC can cope with website fingerprinting (WF), a technique
-    to infer visited websites from network traffic, since most existing efforts targeted
-    TCP-induced traffic. To this end, we propose a novel QUIC WF technique based on
-    Automated Machine Learning (AutoML). In our approach, we revisit traffic features
-    appeared in literature, but relies on an AutoML framework to achieve best practice
-    without manual intervention. Through experiments, we show that our technique outperforms
-    state-of-the-art WF techniques with an F1-score of 99.79% and a 20-precision of
-    92.60%.
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405959523001662-gr1.jpg
-  repo: greenelab/meta-review
 - id: doi:10.3390/app12010155
   title: A Survey on TLS-Encrypted Malware Network Traffic Analysis Applicable to
     Security Operations Centers
@@ -50,7 +38,6 @@
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/9668973/9866753/lee1-3201648-small.gif
 - id: doi:10.1109/ICTC55196.2022.9952872
   title: Revisiting TLS-Encrypted Traffic Fingerprinting Methods for Malware Family
     Classification
@@ -197,8 +184,8 @@
   date: '2019-01-01'
   link: https://doi.org/g86qpj
   orcid: 0000-0002-6432-3234
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/LWC.2018.2863294
   title: 'DOTA: Physical-Layer Decomposing and Threading for ZigBee/Wi-Fi Co-Transmission'
   authors:
@@ -223,8 +210,8 @@
   date: '2021-03-01'
   link: https://doi.org/g86qpm
   orcid: 0000-0002-6432-3234
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jnca.2018.08.011
   title: 'Next-generation RF-powered networks for Internet of Things: Architecture
     and research perspectives'
@@ -370,7 +357,7 @@
   - Sinjae Lee
   - "Ding\u2010Zhu Du"
   publisher: Wireless Communications and Mobile Computing
-  date: '2011-03-31'
+  date: '2013-05-01'
   link: https://doi.org/cs6m86
   orcid: 0000-0002-6432-3234
   plugin: sources.py
@@ -568,41 +555,5 @@
   publisher: Journal of the Korea Institute of Information Security & Cryptology
   date: '2023-04-30'
   link: https://doi.org/g86qpx
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/TMC.2019.2955080
-  title: 'BuSAR: Bluetooth Slot Availability Randomization for Better Coexistence
-    With Dense Wi-Fi Networks'
-  authors:
-  - Chenglong Shao
-  - Heejun Roh
-  - Wonjun Lee
-  publisher: IEEE Transactions on Mobile Computing
-  date: '2021-03-01'
-  link: https://doi.org/g86qpm
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/ACCESS.2019.2957434
-  title: Secure and Lightweight Subflow Establishment of Multipath-TCP
-  authors:
-  - Gunhee Noh
-  - Hoorin Park
-  - Heejun Roh
-  - Wonjun Lee
-  publisher: IEEE Access
-  date: '2019-01-01'
-  link: https://doi.org/g86qpj
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/ICOIN.2013.6496408
-  title: Price-based tethering for cooperative networking
-  authors:
-  - ' Jisub Lee'
-  - ' Chenglong Shao'
-  - ' Heejun Roh'
-  - ' Wonjun Lee'
-  publisher: The International Conference on Information Networking 2013 (ICOIN)
-  date: '2013-01-01'
-  link: https://doi.org/g86qpz
   plugin: sources.py
   file: sources.yaml

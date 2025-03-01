@@ -5,4 +5,4 @@ nav:
   tooltip: About Prof. Heejun Roh
 ---
 
-{% include ../hjroh.html %}
+{% include /hjroh.html %}

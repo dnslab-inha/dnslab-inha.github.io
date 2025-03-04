@@ -7,71 +7,41 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you are willing to contact Prof. Heejun Roh or DNSLab at Inha University, please check the following contact information.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="hjroh _at_ inha _dot_ ac _dot kr"
+  link="#"
 %}
 {%
   include button.html
   type="phone"
   text="+82 (32 or 032 in Korea) 860 - seven seven nine four"
-  link="+82-32-860-7794"
+  link="#"
 %}
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="Our location on Naver Maps for easy navigation"
   link="https://naver.me/FjbWjuCS"
 %}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+The main office of DNSLab is located in Room 1113, Hi-Tech Center
+Inha University, Republic of Korea.
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+The mailing address for Heejun Roh or DNSLab is as follows:
+Heejun Roh / Distributed and Networked Systems Lab.
+Department of Computer Engineering
+College of Software and Convergence
+Inha University, 100 Inha-ro, Michuhol-gu
+22212 Incheon, Republic of Korea.
 {% endcapture %}
 
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 %}

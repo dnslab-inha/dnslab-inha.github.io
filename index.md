@@ -3,7 +3,7 @@
 
 # Distributed and Networked Systems Lab. (DNSLab) @ Inha Univ.
 
-Distributed and Networked Systems Lab. (DNSLab) of the Department of Computer Engineering, Inha University located in the Incheon Metropolitan City, Republic of Korea is established by [Prof. Heejun Roh](https://www.hjroh.kr) on March 1, 2024. Currently, our research activities include (1) Network Telemetry including network traffic monitoring and classification, (2) Radio Frequency (RF)-powered computing and networking systems, (3) RF sensing and wireless coexistence, and (4) design, implementation, and analysis of various network protocols and networked systems.
+Distributed and Networked Systems Lab. (DNSLab) of the Department of Computer Engineering, Inha University located in the Incheon Metropolitan City, Republic of Korea is established by [Prof. Heejun Roh](https://hjroh.kr) on March 1, 2024. Currently, our research activities include (1) Network Telemetry including network traffic monitoring and classification, (2) Radio Frequency (RF)-powered computing and networking systems, (3) RF sensing and wireless coexistence, and (4) design, implementation, and analysis of various network protocols and networked systems.
 
 {% include section.html %}
 
@@ -12,9 +12,9 @@ Distributed and Networked Systems Lab. (DNSLab) of the Department of Computer En
 {% capture text %}
 
 * [Feb. 2025] Byeonghyeon Jeon et al.'s paper received an Undergraduate Outstanding Paper award from KIISE KSC 2024.
-* [Dec. 2024] Byeonghyeon Jeon et al. presented a paper in KIISE Korea Software Congress (KSC) 2024 - Undergraduate Poster Session.
-* [Jun. 2024] Prof. Roh's paper on QUIC Website Fingerprintinig has been published in ICT Express (SCI-E).
-* [Jun. 2024] Byeonghyeon Jeon presented a paper in KICS Summer Conference 2024 - Undergraduate Session and recived an Undergraduate Outstanding Paper award (장려상)!
+* [Dec. 2024] Byeonghyeon Jeon et al. presented a paper in [KIISE](https://www.kiise.or.kr) Korea Software Congress (KSC) 2024 - Undergraduate Poster Session.
+* [Jun. 2024] Prof. Roh's paper on QUIC Website Fingerprinting has been published in ICT Express (SCI-E).
+* [Jun. 2024] Byeonghyeon Jeon presented a paper in [KICS](https://www.kics.or.kr) Summer Conference 2024 - Undergraduate Session and recived an Undergraduate Outstanding Paper award (장려상)!
 
 {%
   include button.html

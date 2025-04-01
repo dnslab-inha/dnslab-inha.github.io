@@ -5,6 +5,7 @@ role: undergraduate researcher
 group: programmer
 links:
   email: junho.kim.engineer@gmail.com
+  github: logicallaw
 ---
 
 I'm currently studying computer science and engineering at Inha University.

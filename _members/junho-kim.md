@@ -8,4 +8,4 @@ links:
   github: logicallaw
 ---
 
-I'm currently studying computer science and engineering at Inha University.
+I’m a junior majoring in Computer Science and Engineering at Inha University.

@@ -1,10 +1,10 @@
 ---
-name: Kim JunHo
+name: Junho Kim
 image: images/KimJunHo.jpg
-role: undergraduate research student
+role: undergraduate researcher
 group: programmer
 links:
   email: junho.kim.engineer@gmail.com
 ---
 
-I am an undergraduate researcher at Inha University, studying and conducting research in the field of networking.
+I'm currently studying computer science and engineering at Inha University.

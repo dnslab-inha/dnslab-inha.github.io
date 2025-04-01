@@ -1,7 +1,7 @@
 ---
 name: Junhyun Im
 image: images/ImJunHyun.jpg
-role: undergraduate research student
+role: undergraduate researcher
 group: programmer
 links:
   github: https://github.com/eclipse021

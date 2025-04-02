@@ -1,10 +1,11 @@
 ---
-name: Junhyun Im
-image: images/ImJunHyun.jpg
+name: Junhyeon Im
+image: images/ImJunHyeon.jpg
 role: undergraduate researcher
 group: programmer
 links:
-  github: https://github.com/eclipse021
+  email: imjunhyeon370@gmail.com
+  github: eclipse021
 ---
 
 I am an undergraduate researcher at Inha University, studying and conducting research in the field of networking.

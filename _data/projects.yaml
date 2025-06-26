@@ -1,47 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Protocol Analysis for Media
+  subtitle: NSR Commissioned Research
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: This project aims to evaluate the security of media transport protocols such as SRTP and MOQ, and to explore the application and extension of their observability techniques. To achieve this, we analyze packets from transport protocols and application-level traffic, and develop techniques for identifying and classifying these protocols.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Performance Evaluation and Optimization of HTTP/3 and QUIC in Diverse Network Environments
+  subtitle: Industry Academic Cooperation Project
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: This project develops a tool to evaluate the performance of HTTP/3 and QUIC across diverse network environments, including wired, Wi-Fi, and 5G. Using devices like Raspberry Pi, we analyze protocol performance and propose environment-specific optimization guidelines.
   repo: greenelab/lab-website-template
   tags:
     - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software

@@ -1,6 +1,6 @@
 ---
 name: Inho Kang
-image: images/KangInho.jpg
+image: images/KangInHo.png
 role: undergraduate researcher
 group: programmer
 links:

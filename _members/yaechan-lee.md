@@ -1,6 +1,6 @@
 ---
-name: Yechan Lee
-image: images/LeeYechan.jpeg
+name: Yaechan Lee
+image: images/LeeYeachan.jpeg
 role: undergraduate researcher
 group: programmer
 links:

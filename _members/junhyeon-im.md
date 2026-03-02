@@ -1,7 +1,7 @@
 ---
 name: Junhyeon Im
 image: images/ImJunHyeon.jpg
-role: undergraduate researcher
+role: alumni-ug
 group: programmer
 links:
   email: imjunhyeon370@gmail.com

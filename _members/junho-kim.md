@@ -1,7 +1,7 @@
 ---
 name: Junho Kim
 image: images/KimJunHo.jpg
-role: undergraduate researcher
+role: alumni-ug
 group: programmer
 links:
   email: junho.kim.engineer@gmail.com

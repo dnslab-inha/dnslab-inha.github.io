@@ -1,7 +1,7 @@
 ---
 name: KangWook Kim
 image: images/KimKangWook.png
-role: undergraduate researcher
+role: alumni-ug
 group: programmer
 links:
   email: ices17@inha.edu

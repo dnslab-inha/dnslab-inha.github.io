@@ -1,11 +1,11 @@
 ---
-name: Minseo Kang
-image: images/KangMinSeo.png
+name: Byeonghyeon Jeon
+image: images/photo.jpg
 role: alumni-ug
 group: programmer
 links:
-  email: minseo2731@inha.edu
-  github: 
+  email: asdf@inha.edu
+  github: 2p31-1
 ---
 
 I’m a junior majoring in Computer Science and Engineering at Inha University.

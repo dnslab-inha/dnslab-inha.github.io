@@ -1,7 +1,7 @@
 ---
 name: Yaechan Lee
 image: images/LeeYeachan.jpeg
-role: undergraduate researcher
+role: ug
 group: programmer
 links:
   email: lyc021119@gmail.com

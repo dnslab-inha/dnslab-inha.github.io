@@ -1,7 +1,7 @@
 ---
 name: Taehwan Jang
 image: images/JangTaeHwan.jpeg
-role: undergraduate researcher
+role: alumni-ug
 group: programmer
 links:
   email: taehwan011@gmail.com

@@ -1,11 +1,11 @@
 ---
-name: Minseo Kang
-image: images/KangMinSeo.png
+name: Eunhang Kim
+image: images/photo.jpg
 role: alumni-ug
 group: programmer
 links:
-  email: minseo2731@inha.edu
-  github: 
+  email: kimeunhang@inha.edu
+  github: kimbank
 ---
 
 I’m a junior majoring in Computer Science and Engineering at Inha University.

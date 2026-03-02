@@ -9,8 +9,14 @@ nav:
 
 {% include section.html %}
 
+ - Lab Director
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+ - Undergraduate Students
+{% include list.html data="members" component="portrait" filter="role != 'ug'" %}
+
+ - Alumni (Undergraduate)
+{% include list.html data="members" component="portrait" filter="role != 'alumni-ug'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

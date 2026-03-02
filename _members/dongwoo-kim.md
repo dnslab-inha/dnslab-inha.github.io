@@ -1,7 +1,7 @@
 ---
 name: Dongwoo Kim
 image: images/KimDongWoo.jpg
-role: undergraduate researcher
+role: alumni-ug
 group: programmer
 links:
   email: kolvv8@gmail.com

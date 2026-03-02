@@ -676,7 +676,7 @@
   link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577982
   plugin: sources.py
   file: sources.yaml
-- title: Per-Flow Split Evaluation for Packet Representation Learning: Data Snooping and Payload Dependency in Encrypted Traffic Classification
+- title: "Per-Flow Split Evaluation for Packet Representation Learning: Data Snooping and Payload Dependency in Encrypted Traffic Classification"
   authors:
   - Kangwook Kim
   - Heejun Roh

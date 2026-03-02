@@ -535,8 +535,7 @@
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.3745/PKIPS.y2024m05a.114
-  title: A method to speed up container deployments on edge clouds
+- title: A method to speed up container deployments on edge clouds
   authors:
   - Seungmin Lee
   - Heejun Roh
@@ -546,6 +545,7 @@
   link: https://doi.org/g86qpw
   plugin: sources.py
   file: sources.yaml
+  doi-id: doi:10.3745/PKIPS.y2024m05a.114
 - title: Feasibility of Adopting Multipath TCP to BitTorrent-based Applications with
     Mininet
   authors:
@@ -565,13 +565,12 @@
   - Eunhang Kim
   - Jihwan Oh
   - Heejun Roh
-  publisher: Proceedings of the  Korea Software Congress 2024 (KSC 2024)
+  publisher: Proceedings of the Korea Software Congress 2024 (KSC 2024)
   date: '2024-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042376
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.13089/JKIISC.2023.33.2.267
-  title: A Preemptive Detection Method for Unknown IoT Botnet Based on Darknet Traffic
+- title: A Preemptive Detection Method for Unknown IoT Botnet Based on Darknet Traffic
   authors:
   - Gunyang Park
   - Jungsuk Song
@@ -581,6 +580,7 @@
   link: https://doi.org/g86qpx
   plugin: sources.py
   file: sources.yaml
+  doi-id: doi:10.13089/JKIISC.2023.33.2.267
 - title: A Survey of Sequential Feature Representation Techniques in Encrypted Network
     Traffic Analysis
   authors:
@@ -665,5 +665,42 @@
   publisher: The Korea Institute of Information Security and Cryptology
   date: '2021-10-30'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10619258
+  plugin: sources.py
+  file: sources.yaml
+- title: Encrypted Traffic Classification based on Multi-Task Learning with Multi-modal representations
+  authors:
+  - Taehwan Jang
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577982
+  plugin: sources.py
+  file: sources.yaml
+- title: Per-Flow Split Evaluation for Packet Representation Learning: Data Snooping and Payload Dependency in Encrypted Traffic Classification
+  authors:
+  - Kangwook Kim
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577981
+  plugin: sources.py
+  file: sources.yaml
+- title: Evaluating Detection Robustness and Generalization of HyperVision in a Heterogeneous Traffic Environment
+  authors:
+  - Yaechan Lee
+  - Heejun Roh
+  - Jungsuk Song
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577989
+  plugin: sources.py
+  file: sources.yaml
+- title: Website Identification Feasibility of QUIC Encrypted Traffic Using FlowPic Representation
+  authors:
+  - Minseo Kang
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577985
   plugin: sources.py
   file: sources.yaml

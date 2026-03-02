@@ -253,6 +253,12 @@
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
+- title: Method and Apparatus for Controlling Client Connection in MU-MIMO Networks
+  date: '2017-04-20'
+  link: https://goo.gl/Py01cd
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/MVT.2016.2604409
   title: 'The Useful Impact of Carrier Aggregation: A Measurement Study in South Korea
     for Commercial LTE-Advanced Networks'
@@ -335,6 +341,31 @@
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
+- title: "\uB178\uB4DC \uAC04 \uAC70\uB9AC \uC778\uC790 \uC124\uACC4 \uC7A5\uCE58\
+    \ \uBC0F \uBC29\uBC95 (Apparatus and Method for Distance Metric Design between\
+    \ Nodes)"
+  date: '2017-04-20'
+  link: https://goo.gl/wxrU71
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Joint Gateway and Relay Foadside Unit Placement in Vehicular Networks
+  publisher: "\uD55C\uAD6D\uBA40\uD2F0\uBBF8\uB514\uC5B4 \uD559\uD68C\uC9C0 (Korea\
+    \ Multimedia Society Magazine)"
+  date: '2017-04-20'
+  link: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE06545477
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "RSSI\uC758 \uD45C\uC900\uD3B8\uCC28\uB97C \uD65C\uC6A9\uD55C \uC2E4\uB0B4\
+    \ \uCE21\uC704 \uAE30\uBC95 (Indoor Localization using RSSI Standard Deviation)"
+  publisher: "\uC81C 24\uD68C \uD1B5\uC2E0\uC815\uBCF4 \uD569\uB3D9\uD559\uC220\uB300\
+    \uD68C"
+  date: '2017-09-24'
+  link: http://www.eiric.or.kr/literature/ser_view.php?searchCate=literature&SnxGubun=INME&gu=INME016A4&cmd=qryview&SnxIndxNum=189935&rownum=&totalCnt=3&rownum=3&q1_t=64W47Z2s7KSA&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP3NlYXJjaENhdGU9bGl0ZXJhdHVyZSZTbnhHdWJ1bj1JTk1FJmYxPU1OJnExPSVCMyVFQiVDOCVGMSVDMSVEOA==&q1=%B3%EB%C8%F1%C1%D8
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/LCOMM.2013.112613.132085
   title: Aspiration Level-Based Strategy Dynamics on the Coexistence of Spectrum Cooperation
     and Leasing
@@ -348,6 +379,15 @@
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
+- title: "VM-CDS\uB97C \uC774\uC6A9\uD55C VANET\uC5D0\uC11C\uC758 \uD6A8\uC728\uC801\
+    \uC778 \uBE0C\uB85C\uB4DC\uCE90\uC2A4\uD305 \uAE30\uBC95 (An Efficient Broadcasting\
+    \ Method based on VM-CDS in Vehicular Ad-hoc Networks)"
+  publisher: 'Journal of KIISE: Information Networking'
+  date: '2017-04-20'
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02194016
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/wcm.1128
   title: "PND: a p\u2010persistent neighbor discovery protocol in wireless networks"
   authors:
@@ -390,6 +430,16 @@
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
+- title: "\uBAA8\uBC14\uC77C \uD14C\uB354\uB9C1 \uAE30\uBC18 \uD611\uB825 \uC774\uC885\
+    \ \uB124\uD2B8\uC6CC\uD06C\uC758 \uD6A8\uC6A9 \uCD5C\uB300\uD654 (Utility Maximization\
+    \ in Mobile Tethering-based Cooperative Heterogeneous Networks)"
+  publisher: "\uC815\uBCF4\uACFC\uD559\uD68C\uB17C\uBB38\uC9C0: \uCEF4\uD4E8\uD305\
+    \uC758 \uC2E4\uC81C \uBC0F \uB808\uD130"
+  date: '2017-04-20'
+  link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02136809
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/ICCNC.2013.6504211
   title: A stackelberg game for cooperative cognitive radio network with active SUs
   authors:
@@ -410,6 +460,16 @@
   publisher: The International Conference on Information Networking 2013 (ICOIN)
   date: '2013-01-01'
   link: https://doi.org/ 10.1109/icoin.2013.6496408
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "\uBAA8\uBC14\uC77C \uD14C\uB354\uB9C1 \uAE30\uBC18 \uD611\uB825 \uB124\uD2B8\
+    \uC6CC\uD06C \uAD6C\uC131\uC758 \uAC00\uB2A5\uC131 \uBD84\uC11D (Feasibility Analysis\
+    \ of Mobile Tethering-based Cooperative Networks)"
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD559\uC220\uBC1C\uD45C\uB17C\
+    \uBB38\uC9D1"
+  date: '2017-04-20'
+  link: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE02058165
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
@@ -535,6 +595,55 @@
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
+- title: 'Cooperative Bridges: Towards Energy-Efficient Topology Control for Cooperative
+    Wireless Ad Hoc Networks'
+  publisher: the 14th ACM Annual International Conference on Mobile Computing and
+    Networking (ACM MobiCom'2008)
+  date: '2017-04-20'
+  orcid: 0000-0002-6432-3234
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Encrypted Traffic Classification based on Multi-Task Learning with Multi-modal
+    representations
+  authors:
+  - Taehwan Jang
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577982
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Per-Flow Split Evaluation for Packet Representation Learning: Data Snooping
+    and Payload Dependency in Encrypted Traffic Classification'
+  authors:
+  - Kangwook Kim
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577981
+  plugin: sources.py
+  file: sources.yaml
+- title: Evaluating Detection Robustness and Generalization of HyperVision in a Heterogeneous
+    Traffic Environment
+  authors:
+  - Yaechan Lee
+  - Heejun Roh
+  - Jungsuk Song
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577989
+  plugin: sources.py
+  file: sources.yaml
+- title: Website Identification Feasibility of QUIC Encrypted Traffic Using FlowPic
+    Representation
+  authors:
+  - Minseo Kang
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577985
+  plugin: sources.py
+  file: sources.yaml
 - title: A method to speed up container deployments on edge clouds
   authors:
   - Seungmin Lee
@@ -565,7 +674,7 @@
   - Eunhang Kim
   - Jihwan Oh
   - Heejun Roh
-  publisher: Proceedings of the Korea Software Congress 2024 (KSC 2024)
+  publisher: Proceedings of the  Korea Software Congress 2024 (KSC 2024)
   date: '2024-12-18'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042376
   plugin: sources.py
@@ -665,42 +774,5 @@
   publisher: The Korea Institute of Information Security and Cryptology
   date: '2021-10-30'
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10619258
-  plugin: sources.py
-  file: sources.yaml
-- title: Encrypted Traffic Classification based on Multi-Task Learning with Multi-modal representations
-  authors:
-  - Taehwan Jang
-  - Heejun Roh
-  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
-  date: '2025-12-19'
-  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577982
-  plugin: sources.py
-  file: sources.yaml
-- title: "Per-Flow Split Evaluation for Packet Representation Learning: Data Snooping and Payload Dependency in Encrypted Traffic Classification"
-  authors:
-  - Kangwook Kim
-  - Heejun Roh
-  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
-  date: '2025-12-19'
-  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577981
-  plugin: sources.py
-  file: sources.yaml
-- title: Evaluating Detection Robustness and Generalization of HyperVision in a Heterogeneous Traffic Environment
-  authors:
-  - Yaechan Lee
-  - Heejun Roh
-  - Jungsuk Song
-  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
-  date: '2025-12-19'
-  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577989
-  plugin: sources.py
-  file: sources.yaml
-- title: Website Identification Feasibility of QUIC Encrypted Traffic Using FlowPic Representation
-  authors:
-  - Minseo Kang
-  - Heejun Roh
-  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
-  date: '2025-12-19'
-  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577985
   plugin: sources.py
   file: sources.yaml

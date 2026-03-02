@@ -1,5 +1,53 @@
+# 2025
+- title: Encrypted Traffic Classification based on Multi-Task Learning with Multi-modal representations
+  authors:
+  - Taehwan Jang
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577982
+  plugin: sources.py
+  file: sources.yaml
+- title: Per-Flow Split Evaluation for Packet Representation Learning: Data Snooping and Payload Dependency in Encrypted Traffic Classification
+  authors:
+  - Kangwook Kim
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577981
+  plugin: sources.py
+  file: sources.yaml
+- title: Evaluating Detection Robustness and Generalization of HyperVision in a Heterogeneous Traffic Environment
+  authors:
+  - Yaechan Lee
+  - Heejun Roh
+  - Jungsuk Song
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577989
+  plugin: sources.py
+  file: sources.yaml
+- title: Website Identification Feasibility of QUIC Encrypted Traffic Using FlowPic Representation
+  authors:
+  - Minseo Kang
+  - Heejun Roh
+  publisher: Proceedings of the Korea Software Congress 2025 (KSC 2025)
+  date: '2025-12-19'
+  link: https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12577985
+  plugin: sources.py
+  file: sources.yaml
 # 2024
-- id: doi:10.3745/PKIPS.y2024m05a.114
+- title: A method to speed up container deployments on edge clouds
+  authors:
+  - Seungmin Lee
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: Annual Conference of KIPS
+  date: '2024-05-23'
+  link: https://doi.org/g86qpw
+  plugin: sources.py
+  file: sources.yaml
+  doi-id: doi:10.3745/PKIPS.y2024m05a.114
 - id: doi:10.1016/j.icte.2023.12.008
 - title: Feasibility of Adopting Multipath TCP to BitTorrent-based Applications with Mininet
   authors:
@@ -21,7 +69,17 @@
   link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042376
 
 # 2023
-- id: doi:10.13089/JKIISC.2023.33.2.267
+- title: A Preemptive Detection Method for Unknown IoT Botnet Based on Darknet Traffic
+  authors:
+  - Gunyang Park
+  - Jungsuk Song
+  - Heejun Roh
+  publisher: Journal of the Korea Institute of Information Security & Cryptology
+  date: '2023-01-01'
+  link: https://doi.org/g86qpx
+  plugin: sources.py
+  file: sources.yaml
+  doi-id: doi:10.13089/JKIISC.2023.33.2.267
 - title: A Survey of Sequential Feature Representation Techniques in Encrypted Network Traffic Analysis
   authors:
     - Geunho Kim

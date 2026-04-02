@@ -1,11 +1,11 @@
 ---
-name: Yaechan Lee
-image: images/LeeYeachan.jpeg
+name: Soyoung Kang
+image: images/KangSoyoung.jpeg
 role: ug
 group: programmer
 links:
-  email: lyc021119@gmail.com
-  github: wh0isye
+  email: sssoyoung04@gmail.com
+  github: thdud7
 ---
 
 I’m an undergraduate researcher in Computer Science and Engineering at Inha University.

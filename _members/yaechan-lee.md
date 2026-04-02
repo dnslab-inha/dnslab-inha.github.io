@@ -8,4 +8,4 @@ links:
   github: wh0isye
 ---
 
-I’m a junior majoring in Computer Science and Engineering at Inha University.
+I’m an undergraduate researcher in Computer Science and Engineering at Inha University.

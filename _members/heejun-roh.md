@@ -6,6 +6,8 @@ group: professor
 links:
   email: hjroh@inha.ac.kr
   github: rohnugu
+start-date: '2024-03-01'
+end-date: '2099-12-31'
 ---
 
 Please check [https://dnslab-inha.github.io/professor/] for detailed information.

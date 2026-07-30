@@ -5,6 +5,10 @@
   | data_filter: include.filter
 %}
 
+{% if include.data == "members" %}
+  {% assign data = data | sort_members %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"

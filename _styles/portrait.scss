@@ -1,7 +1,4 @@
----
----
-
-.portrait-wrapper {
+--- --- .portrait-wrapper {
   display: contents;
 }
 
@@ -22,16 +19,16 @@
 }
 
 .portrait[data-style="mini"] {
-  width: 110px;
+  width: 120px;
   margin: 15px;
 }
 
 .portrait[data-style="mini"] .portrait-name {
-  font-size: 0.9em;
+  font-size: 0.75em;
 }
 
 .portrait[data-style="mini"] .portrait-current {
-  font-size: 0.75em !important;
+  font-size: 0.65em !important;
 }
 
 .portrait[data-style="tiny"] {
@@ -86,6 +83,7 @@
 }
 
 .portrait[data-style="tiny"] {
+
   .portrait-description,
   .portrait-affiliation {
     display: none;

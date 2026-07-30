@@ -603,6 +603,26 @@
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
+- title: 'fpnt: A Flexible Preprocessing Framework for Network Traffic Analysis'
+  authors:
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: Computer Networks
+  date: '2026-10-01'
+  link: https://doi.org/10.1016/j.comnet.2026.112610
+  doi-id: 10.1016/j.comnet.2026.112610
+  plugin: sources.py
+  file: sources.yaml
+- title: A Survey on Video-conferencing App Traffic Classification
+  authors:
+  - Yaechan Lee
+  - Heejun Roh
+  publisher: Proceedings of the KIISC Conference on Information Security and Cryptography
+    Summer 2026 (CISC-S 2026)
+  date: '2026-05-08'
+  link: \#
+  plugin: sources.py
+  file: sources.yaml
 - title: Encrypted Traffic Classification based on Multi-Task Learning with Multi-modal
     representations
   authors:

@@ -1,4 +1,8 @@
-.portrait-wrapper .portrait {
+.portrait-wrapper {
+  display: contents;
+}
+
+.portrait {
   position: relative;
   display: inline-flex;
   justify-content: center;
@@ -9,26 +13,32 @@
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
-.portrait-wrapper .portrait[data-style=small] {
+
+.portrait[data-style=small] {
   width: 100px;
 }
-.portrait-wrapper .portrait[data-style=mini] {
+
+.portrait[data-style=mini] {
   width: 85px;
   margin: 10px;
 }
-.portrait-wrapper .portrait[data-style=mini] .portrait-name {
+
+.portrait[data-style=mini] .portrait-name {
   font-size: 0.75em;
 }
-.portrait-wrapper .portrait[data-style=mini] .portrait-current {
+
+.portrait[data-style=mini] .portrait-current {
   font-size: 0.65em !important;
 }
-.portrait-wrapper .portrait[data-style=tiny] {
+
+.portrait[data-style=tiny] {
   flex-direction: row;
   gap: 15px;
   width: unset;
   text-align: left;
 }
-.portrait-wrapper .portrait .icon {
+
+.portrait .icon {
   position: absolute;
   left: 0;
   top: 0;
@@ -42,15 +52,18 @@
   box-shadow: var(--shadow);
   transform: translate(14%, 14%);
 }
-.portrait-wrapper .portrait[data-style=small] .icon,
-.portrait-wrapper .portrait[data-style=mini] .icon {
+
+.portrait[data-style=small] .icon,
+.portrait[data-style=mini] .icon {
   left: -2px;
   top: -2px;
 }
-.portrait-wrapper .portrait[data-style=tiny] .icon {
+
+.portrait[data-style=tiny] .icon {
   display: none;
 }
-.portrait-wrapper .portrait-image {
+
+.portrait-image {
   width: 100%;
   margin-bottom: 20px;
   aspect-ratio: 1/1;
@@ -58,16 +71,19 @@
   object-fit: cover;
   box-shadow: var(--shadow);
 }
-.portrait-wrapper .portrait[data-style=tiny] .portrait-image {
+
+.portrait[data-style=tiny] .portrait-image {
   width: 50px;
   margin: 0;
 }
-.portrait-wrapper .portrait-name {
+
+.portrait-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
 }
-.portrait-wrapper .portrait[data-style=tiny] .portrait-description,
-.portrait-wrapper .portrait[data-style=tiny] .portrait-affiliation {
+
+.portrait[data-style=tiny] .portrait-description,
+.portrait[data-style=tiny] .portrait-affiliation {
   display: none;
 }
 

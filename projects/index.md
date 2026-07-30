@@ -2,23 +2,29 @@
 title: Projects
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: Research Projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
-{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## 연구 프로젝트 (On-going)
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% assign ongoing = site.data.projects | where: "group", "ongoing" %}
+{% for project in ongoing %}
+- **{{ project.title }}**  
+  {{ project.description }}, {{ project.duration }}
+{% endfor %}
 
 {% include section.html %}
 
-## More
+## 과거 수행 프로젝트
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% assign past = site.data.projects | where: "group", "past" %}
+{% for project in past %}
+- **{{ project.title }}**  
+  {{ project.description }}, {{ project.duration }}
+{% endfor %}

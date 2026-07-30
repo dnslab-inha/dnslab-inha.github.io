@@ -1,47 +1,54 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: "ICT융합 공공 서비스·인프라 암호화 사이버위협에 대한 네트워크 행위기반 보안관제 기술 개발 (Development of security monitoring technology based network behavior against encrypted cyber threats in ICT convergence environment)"
+  description: "IITP Multi-ministerial Project, Co-Principal Investigator (Co-PI)"
+  duration: "2023.04.01 - 2027.12.31"
+  group: "ongoing"
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: "Ambient Intelligence를 위한 Polymorphic 백스캐터 네트워킹 기술 (Polymorphic Backscatter Networking for Ambient Intelligence)"
+  description: "NRF Mid-career Researcher Program, Co-Investigator (Co-I)"
+  duration: "2024.05.01 - 2029.04.30"
+  group: "ongoing"
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: "미디어 전송 프로토콜 취약점 연구 (Analyzing Security Vulnerabilities in Media Transport Protocols)"
+  description: "NSR Commissioned Research, Principal Investigator (PI)"
+  duration: "2025 - 2025"
+  group: "past"
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: "엣지클라우드 데이터프라이버시 강화를 위한 신기술 연구 및 혁신인재 양성 (Development of New Technology for Data Privacy Enhancement on Edge Cloud Environment and Cultivating Next Generation Creative Talent)"
+  description: "IITP Information Technology Research Center (ITRC) Program, Sub-Project Principal Investigator (Sub-PI); Participation Period: 2022.06.01 - 2024.02.29"
+  duration: "2022.06.01 - 2029.12.31"
+  group: "past"
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: "암호화 프로토콜 자동 학습 기반 핑거프린팅을 통한 트래픽 분류 파이프라인 설계 (Design of traffic classification pipeline through fingerprinting based on automatic learning by encryption protocol)"
+  description: "KISTI Commissioned Research, Principal Investigator (PI)"
+  duration: "2022 - 2022"
+  group: "past"
+
+- title: "기계학습을 통한 QUIC 프로토콜 핑거프린팅 가능성 분석 연구 (Feasibility Analysis of QUIC Protocol Fingerprinting Using Machine Learning)"
+  description: "NSR Commissioned Research, Principal Investigator (PI)"
+  duration: "2022 - 2022"
+  group: "past"
+
+- title: "다양한 암호통신 프로토콜에 대한 보안관제 프레임워크 설계 (Security monitoring framework design for various cryptographic communication protocols)"
+  description: "KISTI Commissioned Research, Principal Investigator (PI)"
+  duration: "2021 - 2021"
+  group: "past"
+
+- title: "멀웨어 분류 기반 암호화통신 플로우 분석 자동화 기술 설계 (Automated Encrypted Traffic Flow Analytics with Malware Classification)"
+  description: "KISTI Commissioned Research, Principal Investigator (PI)"
+  duration: "2020 - 2020"
+  group: "past"
+
+- title: "RBAS: 재설정가능한 백스캐터 어레이 기반의 무선 보안 강화 기술 (RBAS: A Reconfigurable Backscatter Array-based System for Augmenting Wireless Security)"
+  description: "NRF Basic Science Research Program, Principal Investigator (PI)"
+  duration: "2020 - 2021"
+  group: "past"
+
+- title: "암호화통신 보안관제를 위한 연관 플로우 수집 및 분석 기술 설계 (Design of contextual flow monitoring and analytics techniques for encrypted traffic management)"
+  description: "KISTI Commissioned Research, Principal Investigator (PI)"
+  duration: "2019 - 2019"
+  group: "past"
+
+- title: "Seek & Hide: 적응적 백스캐터 태깅을 활용한 무선 보안 강화 기술 (Seek & Hide: Wireless Security Enhancement via Adaptive Backscatter Tagging)"
+  description: "NRF Basic Science Research Program, Principal Investigator (PI)"
+  duration: "2019 - 2020"
+  group: "past"

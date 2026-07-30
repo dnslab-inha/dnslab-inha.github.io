@@ -9,6 +9,7 @@ Distributed and Networked Systems Lab. (DNSLab) of the Department of Computer En
 
 ## Highlights
 
+* [Jul. 2026] Prof. Heejun Roh's paper is accepted for publication in Elsevier Computer Networks journal (SCI-E I/F 4.7). The related open-source software codebase can be found in [the fpnt GitHub Repository](https://github.com/dnslab-inha/fpnt) and [fpnt Documentation](https://dnslab-inha.github.io/fpnt/index.html).
 * [Feb. 2026] Yaechan Lee et al.'s paper received an Undergraduate Outstanding Paper award (장려상) from [KIISE](https://www.kiise.or.kr) KSC 2025! Congratulation!!
 * [Feb. 2026] Kangwook Kim and Prof. Heejun Roh's paper received an Undergraduate Outstanding Paper award (우수상) from [KIISE](https://www.kiise.or.kr) KSC 2025! Congratulation!!
 * [Feb. 2025] Byeonghyeon Jeon et al.'s paper received an Undergraduate Outstanding Paper award (우수상) from [KIISE](https://www.kiise.or.kr) KSC 2024! Congratulation!!

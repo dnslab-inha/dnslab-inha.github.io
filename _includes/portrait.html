@@ -36,6 +36,19 @@
       </span>
     {% endif %}
 
+    {% if member.current %}
+      <span class="portrait-current"
+        {% if member.current_url %}
+          onclick="window.open('{{ member.current_url }}', '_blank'); event.preventDefault();"
+          style="font-size: 0.85em; font-weight: 500; margin-top: 5px; cursor: pointer; text-decoration: underline; position: relative; z-index: 2; color: inherit;"
+        {% else %}
+          style="font-size: 0.85em; font-weight: 500; margin-top: 5px; color: inherit;"
+        {% endif %}
+      >
+        {{ member.current }}
+      </span>
+    {% endif %}
+
     {% if member.description or type %}
       <span class="portrait-description">
         {{ member.description | default: type.description }}

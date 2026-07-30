@@ -1,10 +1,10 @@
 - title: "ICT융합 공공 서비스·인프라 암호화 사이버위협에 대한 네트워크 행위기반 보안관제 기술 개발 (Development of security monitoring technology based network behavior against encrypted cyber threats in ICT convergence environment)"
-  description: "IITP Multi-ministerial Project, Co-Principal Investigator (Co-PI)"
+  description: "IITP Multi-ministerial (다부처) R&D Project, Co-Principal Investigator (Co-PI)"
   duration: "2023.04.01 - 2027.12.31"
   group: "ongoing"
 
 - title: "Ambient Intelligence를 위한 Polymorphic 백스캐터 네트워킹 기술 (Polymorphic Backscatter Networking for Ambient Intelligence)"
-  description: "NRF Mid-career Researcher Program, Co-Investigator (Co-I)"
+  description: "NRF Mid-career (중견) Researcher Program, Co-Investigator (Co-I)"
   duration: "2024.05.01 - 2029.04.30"
   group: "ongoing"
 
@@ -39,7 +39,7 @@
   group: "past"
 
 - title: "RBAS: 재설정가능한 백스캐터 어레이 기반의 무선 보안 강화 기술 (RBAS: A Reconfigurable Backscatter Array-based System for Augmenting Wireless Security)"
-  description: "NRF Basic Science Research Program, Principal Investigator (PI)"
+  description: "NRF Basic Science (기본) Research Program, Principal Investigator (PI)"
   duration: "2020 - 2021"
   group: "past"
 
@@ -49,6 +49,6 @@
   group: "past"
 
 - title: "Seek & Hide: 적응적 백스캐터 태깅을 활용한 무선 보안 강화 기술 (Seek & Hide: Wireless Security Enhancement via Adaptive Backscatter Tagging)"
-  description: "NRF Basic Science Research Program, Principal Investigator (PI)"
+  description: "NRF Basic Science (기본) Research Program, Principal Investigator (PI)"
   duration: "2019 - 2020"
   group: "past"

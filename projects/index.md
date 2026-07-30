@@ -11,7 +11,7 @@ nav:
 
 {% include section.html %}
 
-## 연구 프로젝트 (On-going)
+## On-going Projects (수행 중 연구 프로젝트)
 
 {% assign ongoing = site.data.projects | where: "group", "ongoing" %}
 {% for project in ongoing %}
@@ -21,7 +21,7 @@ nav:
 
 {% include section.html %}
 
-## 과거 수행 프로젝트
+## Past Projects (과거 수행 프로젝트)
 
 {% assign past = site.data.projects | where: "group", "past" %}
 {% for project in past %}

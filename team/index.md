@@ -16,17 +16,13 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'ug'" %}
 
  - Alumni (Undergraduate)
-{% include list.html data="members" component="portrait" filter="role == 'alumni-ug'" %}
+{% include list.html data="members" component="portrait" filter="role == 'alumni-ug'" style="mini" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
 {% include section.html %}
 
 {% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 

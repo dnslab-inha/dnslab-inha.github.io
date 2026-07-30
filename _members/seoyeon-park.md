@@ -1,7 +1,7 @@
 ---
 name: Seoyeon Park
 image: images/ParkSeoyeon.jpeg
-role: ug
+role: alumni-ug
 group: programmer
 links:
   email: psylo5608@naver.com

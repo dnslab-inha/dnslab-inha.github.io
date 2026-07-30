@@ -1,7 +1,7 @@
 ---
 name: Soyoung Kang
 image: images/KangSoyoung.jpeg
-role: ug
+role: alumni-ug
 group: programmer
 links:
   email: sssoyoung04@gmail.com

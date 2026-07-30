@@ -1,27 +1,33 @@
-{%- assign emptyarray = "" | split: "," -%}
-{%- assign data = site.data[include.data]
+<div style="display: contents;">
+{% assign emptyarray = "" | split: "," %}
+{% assign data = site.data[include.data]
   | default: site[include.data]
   | default: emptyarray
   | data_filter: include.filter
--%}
-{%- if include.data == "members" -%}
-  {%- assign data = data | sort_members -%}
-{%- endif -%}
-{%- assign years = data
+%}
+
+{% if include.data == "members" %}
+  {% assign data = data | sort_members %}
+{% endif %}
+
+{% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
   | reverse
--%}
-{%- for year in years -%}
-  {%- assign data = year.items -%}
-  {%- if years.size > 1 %}
+%}
+
+{% for year in years %}
+  {% assign data = year.items %}
+
+  {% if years.size > 1 %}
     <h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {%- assign data = data | sort: "date" | reverse -%}
-  {%- endif -%}
-  {%- for d in data -%}
-    {%- assign style = d.style | default: include.style -%}
-    {%- assign current_url_val = d["current-url"] -%}
-    {%-
+    {% assign data = data | sort: "date" | reverse %}
+  {% endif %}
+
+  {% for d in data %}
+    {% assign style = d.style | default: include.style %}
+    {% assign current_url_val = d["current-url"] %}
+    {%
       include {{ include.component | append: ".html" }}
       affiliation=d.affiliation
       author=d.author
@@ -55,6 +61,7 @@
       type=d.type
       url=d.url
       width=d.width
-    -%}
-  {%- endfor -%}
-{%- endfor -%}
+    %}
+  {% endfor %}
+{% endfor %}
+</div>

@@ -1,5 +1,5 @@
 # 2026
-- title: fpnt: A Flexible Preprocessing Framework for Network Traffic Analysis
+- title: "fpnt: A Flexible Preprocessing Framework for Network Traffic Analysis" # double quote since colon disturbs YAML validation.
   authors:
   - Heejun Roh
   - Wonjun Lee

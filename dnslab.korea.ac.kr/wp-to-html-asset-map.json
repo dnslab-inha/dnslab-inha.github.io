@@ -1,0 +1,13 @@
+{
+    "css|/wp-content/themes/evolve/assets/css/bootstrap.min.css": "bootstrap.min.css",
+    "css|/wp-content/themes/evolve/assets/css/fw-all.min.css": "fw-all.min.css",
+    "css|/wp-content/themes/evolve/style.css": "style.css",
+    "css|/wp-content/themes/evolve/assets/css/animate.min.css": "animate.min.css",
+    "images|/wp-content/themes/evolve/assets/images/icons.svg": "icons.svg",
+    "js|/wp-includes/js/jquery/jquery.min.js": "jquery.min.js",
+    "js|/wp-includes/js/jquery/jquery-migrate.min.js": "jquery-migrate.min.js",
+    "js|/wp-content/themes/evolve/assets/js/main.min.js": "main.min.js",
+    "js|/wp-content/themes/evolve/assets/fonts/fontawesome/font-awesome-all.min.js": "font-awesome-all.min.js",
+    "js|/wp-content/themes/evolve/assets/fonts/fontawesome/font-awesome-shims.min.js": "font-awesome-shims.min.js",
+    "assets|/wp-content/uploads/2022/04/Letter-of-Appreciation-LG-Power-Manager-20220329.pdf": "Letter-of-Appreciation-LG-Power-Manager-20220329.pdf"
+}

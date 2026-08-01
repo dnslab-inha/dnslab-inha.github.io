@@ -113,9 +113,18 @@ def main(entry):
             # get publisher
             publisher = first(lambda s: get_safe(s, "journal-title.value", ""))
 
+            def get_pub_date(s):
+                year = get_safe(s, "publication-date.year.value")
+                if year:
+                    month = get_safe(s, "publication-date.month.value") or "1"
+                    day = get_safe(s, "publication-date.day.value") or "1"
+                    return f"{year}-{month}-{day}"
+                return None
+
             # get date
             date = (
-                get_safe(work, "last-modified-date.value")
+                first(get_pub_date)
+                or get_safe(work, "last-modified-date.value")
                 or first(lambda s: get_safe(s, "last-modified-date.value"))
                 or get_safe(work, "created-date.value")
                 or first(lambda s: get_safe(s, "created-date.value"))

@@ -6,21 +6,21 @@
   - Joonseo Ha
   - Heejun Roh
   publisher: ICT Express
-  date: '2024-06-01'
-  link: https://doi.org/g86qn7
+  date: '2024-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85181125223&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/app12010155
-  title: A Survey on TLS-Encrypted Malware Network Traffic Analysis Applicable to
-    Security Operations Centers
+  title: A survey on tls-encrypted malware network traffic analysis applicable to
+    security operations centers
   authors:
   - Chaeyeon Oh
   - Joonseo Ha
   - Heejun Roh
-  publisher: Applied Sciences
-  date: '2021-12-24'
-  link: https://doi.org/g86qn8
+  publisher: Applied Sciences (Switzerland)
+  date: '2022-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85121682256&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -34,7 +34,7 @@
   - Wonjun Lee
   publisher: IEEE Access
   date: '2022-01-01'
-  link: https://doi.org/g86qn9
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85137574574&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -46,22 +46,21 @@
   - Minsu Kim
   - Joonseo Ha
   - Heejun Roh
-  publisher: 2022 13th International Conference on Information and Communication Technology
-    Convergence (ICTC)
-  date: '2022-10-19'
-  link: https://doi.org/g86qpb
+  publisher: International Conference on ICT Convergence
+  date: '2022-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85143256646&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/electronics10243180
-  title: Experimental Evaluation of Malware Family Classification Methods from Sequential
-    Information of TLS-Encrypted Traffic
+  title: Experimental evaluation of malware family classification methods from sequential
+    information of tls-encrypted traffic
   authors:
   - Joonseo Ha
   - Heejun Roh
-  publisher: Electronics
-  date: '2021-12-20'
-  link: https://doi.org/gqtrt2
+  publisher: Electronics (Switzerland)
+  date: '2021-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85121383867&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -73,8 +72,8 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: IEEE Communications Letters
-  date: '2021-03-01'
-  link: https://doi.org/g86qpc
+  date: '2021-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85098776595&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -84,22 +83,22 @@
   - Janggoon Lee
   - Chanhee Park
   - Heejun Roh
-  publisher: 2021 International Conference on Information Networking (ICOIN)
-  date: '2021-01-13'
-  link: https://doi.org/g86qpd
+  publisher: International Conference on Information Networking
+  date: '2021-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85100794684&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/en14040928
-  title: Revisiting Adaptive Frequency Hopping Map Prediction in Bluetooth with Machine
-    Learning Classifiers
+  title: Revisiting adaptive frequency hopping map prediction in bluetooth with machine
+    learning classifiers
   authors:
   - Janggoon Lee
   - Chanhee Park
   - Heejun Roh
   publisher: Energies
-  date: '2021-02-10'
-  link: https://doi.org/g86qpf
+  date: '2021-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85106451050&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -112,36 +111,36 @@
   - Wonjun Lee
   - Hyoil Kim
   publisher: IEEE/ACM Transactions on Networking
-  date: '2020-08-01'
-  link: https://doi.org/g86qpg
+  date: '2020-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85090756774&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFOCOMWKSHPS50562.2020.9162971
-  title: 'Poster Abstract: Encrypted Malware Traffic Detection Using Incremental Learning'
+  title: 'Poster abstract: Encrypted malware traffic detection using incremental learning'
   authors:
   - Insup Lee
   - Heejun Roh
   - Wonjun Lee
-  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops
-    (INFOCOM WKSHPS)
-  date: '2020-07-01'
-  link: https://doi.org/gkrhfg
+  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops,
+    INFOCOM WKSHPS 2020
+  date: '2020-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85091532568&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFOCOMWKSHPS50562.2020.9162658
-  title: 'Poster Abstract: Suppressing CSI Leakage in Multi-user MIMO Networks via
-    Precoding'
+  title: 'Poster abstract: Suppressing CSI leakage in multi-user MIMO networks via
+    precoding'
   authors:
   - Seoungbin Bae
   - Youngki Kim
   - Heejun Roh
   - Wonjun Lee
-  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops
-    (INFOCOM WKSHPS)
-  date: '2020-07-01'
-  link: https://doi.org/g86qph
+  publisher: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops,
+    INFOCOM WKSHPS 2020
+  date: '2020-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85091500269&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -154,9 +153,9 @@
   - Jinwoo Lee
   - Heejun Roh
   - Wonjun Lee
-  publisher: 2020 IEEE 28th International Conference on Network Protocols (ICNP)
-  date: '2020-10-13'
-  link: https://doi.org/grbnmf
+  publisher: Proceedings - International Conference on Network Protocols, ICNP
+  date: '2020-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85097824805&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -168,8 +167,8 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: IEEE Internet of Things Journal
-  date: '2020-04-01'
-  link: https://doi.org/gqszxr
+  date: '2020-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85083694330&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -181,8 +180,8 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: IEEE Access
-  date: '2019-01-01'
-  link: https://doi.org/g86qpj
+  date: '2019-12-04'
+  link: http://dx.doi.org/10.1109/access.2019.2957434
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -195,20 +194,20 @@
   - Wonjun Lee
   publisher: IEEE Wireless Communications Letters
   date: '2019-02-01'
-  link: https://doi.org/g86qpk
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85051002730&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tmc.2019.2955080
   title: 'BuSAR: Bluetooth Slot Availability Randomization for Better Coexistence
-    With Dense Wi-Fi Networks'
+    with Dense Wi-Fi Networks'
   authors:
   - Chenglong Shao
   - Heejun Roh
   - Wonjun Lee
   publisher: IEEE Transactions on Mobile Computing
-  date: '2021-03-01'
-  link: https://doi.org/g86qpm
+  date: '2019-01-01'
+  link: http://dx.doi.org/10.1109/tmc.2019.2955080
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -220,13 +219,13 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: Journal of Network and Computer Applications
-  date: '2018-12-01'
-  link: https://doi.org/g86qpn
+  date: '2018-09-05'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85053025897&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2017.2755638
-  title: A Software-Based Monitoring Framework for Time-Space Partitioned Avionics
+  title: A Software-based Monitoring Framework for Time-Space Partitioned Avionics
     Systems
   authors:
   - Changmin Shin
@@ -235,8 +234,8 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: IEEE Access
-  date: '2017-01-01'
-  link: https://doi.org/gvb6jt
+  date: '2017-09-22'
+  link: https://doi.org/10.1109/ACCESS.2017.2755638
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -248,12 +247,13 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: IEEE Communications Letters
-  date: '2017-06-01'
-  link: https://doi.org/gbj667
+  date: '2017-03-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85020940583&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - title: Method and Apparatus for Controlling Client Connection in MU-MIMO Networks
+  publisher: Patent (Other than Korean)
   date: '2017-02-06'
   link: https://goo.gl/Py01cd
   orcid: 0000-0002-6432-3234
@@ -269,8 +269,8 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: IEEE Vehicular Technology Magazine
-  date: '2017-03-01'
-  link: https://doi.org/gdgwcf
+  date: '2017-01-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85010191069&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -283,8 +283,8 @@
   - Sangheon Pack
   - Wonjun Lee
   publisher: Journal of Network and Computer Applications
-  date: '2017-05-01'
-  link: https://doi.org/g86qpp
+  date: '2016-12-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85010815571&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -297,8 +297,8 @@
   - Taekyung Kim
   - Wonjun Lee
   publisher: IEEE Transactions on Consumer Electronics
-  date: '2016-05-01'
-  link: https://doi.org/g86qpq
+  date: '2016-07-19'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84979702295&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -309,24 +309,24 @@
   - Kyunghwi Kim
   - Sangheon Pack
   - Wonjun Lee
-  publisher: Lecture Notes of the Institute for Computer Sciences, Social Informatics
-    and Telecommunications Engineering
-  date: '2017-01-01'
-  link: https://doi.org/g8fs8g
+  publisher: Proceedings of the 12th EAI International Conference on Heterogeneous
+    Networking for Quality, Reliability, Security and Robustness (QSHINE'2016)
+  date: '2016-07-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85028446687&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICTC.2015.7354607
-  title: Client selection for coordinated IEEE 802.11ac multi-user MIMO-enabled access
+  title: Client selection for coordinated IEEE 802.11 ac multi-user MIMO-enabled access
     points
   authors:
   - Seongyong Jeong
   - Heejun Roh
   - Wonjun Lee
-  publisher: 2015 International Conference on Information and Communication Technology
-    Convergence (ICTC)
-  date: '2015-10-01'
-  link: https://doi.org/g86qpr
+  publisher: Information and Communication Technology Convergence (ICTC), 2015 International
+    Conference on
+  date: '2015-12-17'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964851044&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -336,14 +336,15 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: 2015 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
-  date: '2015-04-01'
-  link: https://doi.org/g75mk9
+  date: '2015-08-06'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84943247354&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - title: "\uB178\uB4DC \uAC04 \uAC70\uB9AC \uC778\uC790 \uC124\uACC4 \uC7A5\uCE58\
     \ \uBC0F \uBC29\uBC95 (Apparatus and Method for Distance Metric Design between\
     \ Nodes)"
+  publisher: Korean Patent
   date: '2015-07-15'
   link: https://goo.gl/wxrU71
   orcid: 0000-0002-6432-3234
@@ -375,7 +376,7 @@
   - Wonjun Lee
   publisher: IEEE Communications Letters
   date: '2014-01-01'
-  link: https://doi.org/f5t6q5
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84893743481&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -389,7 +390,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/wcm.1128
-  title: "PND: a p\u2010persistent neighbor discovery protocol in wireless networks"
+  title: 'PND: a p-persistent neighbor discovery protocol in wireless networks'
   authors:
   - Kyunghwi Kim
   - Heejun Roh
@@ -398,7 +399,7 @@
   - "Ding\u2010Zhu Du"
   publisher: Wireless Communications and Mobile Computing
   date: '2013-05-01'
-  link: https://doi.org/cs6m86
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84876704729&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -409,9 +410,10 @@
   - Cheoulhoon Jung
   - Wonjun Lee
   - Ding-Zhu Du
-  publisher: 2013 Proceedings IEEE INFOCOM
+  publisher: Proceedings of the 32nd IEEE Conference on Computer Communications (IEEE
+    INFOCOM 2013)
   date: '2013-04-01'
-  link: https://doi.org/gsv62q
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883079101&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -424,7 +426,8 @@
   - Sinjae Lee
   - Wonjun Lee
   - Ding-Zhu Du
-  publisher: 2013 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+  publisher: Computer Communications Workshops (INFOCOM WKSHPS), 2013 IEEE Conference
+    on
   date: '2013-04-01'
   link: https://doi.org/g86qps
   orcid: 0000-0002-6432-3234
@@ -441,16 +444,16 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICCNC.2013.6504211
-  title: A stackelberg game for cooperative cognitive radio network with active SUs
+  title: A Stackelberg Game for Cooperative Cognitive Radio Network with Active SUs
   authors:
   - ' Heejun Roh'
   - ' Cheoulhoon Jung'
   - ' Wonjun Lee'
   - ' Ding-Zhu Du'
-  publisher: 2013 International Conference on Computing, Networking and Communications
-    (ICNC)
+  publisher: Proceedings of the 2013 2nd International Conference on Computing, Networking
+    and Communications (IEEE ICNC'2013)
   date: '2013-01-01'
-  link: https://doi.org/g86qpt
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84877605888&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -461,9 +464,10 @@
   - ' Chenglong Shao'
   - ' Heejun Roh'
   - ' Wonjun Lee'
-  publisher: The International Conference on Information Networking 2013 (ICOIN)
+  publisher: Proceedings of the 27th International Conference on Information Networking
+    (ICOIN 2013)
   date: '2013-01-01'
-  link: https://doi.org/g86qpz
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84876747778&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
@@ -487,7 +491,7 @@
   - Ding-Zhu Du
   publisher: IEEE Journal on Selected Areas in Communications
   date: '2012-10-01'
-  link: https://doi.org/g86qpv
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866926636&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -501,8 +505,8 @@
   - Ding-Zhu DU
   - Wonjun LEE
   publisher: IEICE Transactions on Communications
-  date: '2012-01-01'
-  link: https://doi.org/gjhbfb
+  date: '2012-09-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84865681658&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -512,8 +516,8 @@
   - Heejun Roh
   - Wonjun Lee
   publisher: International Journal of Distributed Sensor Networks
-  date: '2012-01-01'
-  link: https://doi.org/fzbkxp
+  date: '2012-01-29'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84863288593&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -525,33 +529,35 @@
   - Hoorin Park
   - Cheoulhoon Jung
   - Wonjun Lee
-  publisher: Proceedings of The ACM CoNEXT Student Workshop
-  date: '2011-12-06'
-  link: https://doi.org/fxsbz9
+  publisher: Proceedings of the ACM CoNEXT Student Workshop
+  date: '2011-12-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84862912982&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/1923641.1923651
-  title: CMAC-ORS
+  title: 'CMAC-ORS: a cooperative MAC protocol with on-demand relay selection for
+    wireless LANs'
   authors:
   - Soungwoo Kim
   - Heejun Roh
   - Wonjun Lee
   publisher: ACM SIGMOBILE Mobile Computing and Communications Review
-  date: '2010-12-27'
+  date: '2010-07-01'
   link: https://doi.org/fh2sds
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-642-14654-1_21
-  title: Delay Minimization of Tree-Based Neighbor Discovery in Mobile Robot Networks
+  title: Delay minimization of tree-based neighbor discovery in mobile robot networks
   authors:
   - Heejun Roh
   - Kyunghwi Kim
   - Wonjun Lee
-  publisher: Lecture Notes in Computer Science
-  date: '2010-01-01'
-  link: https://doi.org/d3db52
+  publisher: Proceedings of the 5th International Conference on Wireless Algorithms,
+    Systems, and Applications (WASA 2010)
+  date: '2010-07-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77958498244&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
@@ -561,16 +567,16 @@
   - ' Kyunghwi Kim'
   - ' Heejun Roh'
   - Wonjun Lee
-  publisher: 2010 Second International Conference on Ubiquitous and Future Networks
-    (ICUFN)
+  publisher: Proceedings of the 2010 2nd International Conference on Ubiquitous and
+    Future Networks (ICUFN)
   date: '2010-06-01'
-  link: https://doi.org/bhqwt9
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77957192246&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1587/transcom.E93.B.1029
-  title: Topology Control for Increasing Connectivity in Cooperative Wireless Ad Hoc
-    Networks
+  title: Topology control for increasing connectivity in cooperative wireless ad hoc
+    networks
   authors:
   - Jieun YU
   - Heejun ROH
@@ -580,29 +586,30 @@
   - Ding-Zhu DU
   - Sangjin (Stephen) HONG
   publisher: IEICE Transactions on Communications
-  date: '2010-01-01'
-  link: https://doi.org/b9rw59
+  date: '2010-04-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77950497096&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/INFCOM.2010.5462126
-  title: 'Cooperative Bridges: Topology Control in Cooperative Wireless Ad Hoc Networks'
+  title: 'Cooperative bridges: topology control in cooperative wireless ad hoc networks'
   authors:
   - Jieun Yu
   - Heejun Roh
   - Wonjun Lee
   - Sangheon Pack
   - Ding-Zhu Du
-  publisher: 2010 Proceedings IEEE INFOCOM
+  publisher: Proceedings of the 29th IEEE Conference on Computer Communications (IEEE
+    INFOCOM 2010)
   date: '2010-03-01'
-  link: https://doi.org/b3cvs2
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77953313369&partnerID=MN8TOARS
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
 - title: 'Cooperative Bridges: Towards Energy-Efficient Topology Control for Cooperative
     Wireless Ad Hoc Networks'
   publisher: the 14th ACM Annual International Conference on Mobile Computing and
-    Networking (ACM MobiCom'2008)
+    Networking (ACM MobiCom'2008) - Poster Session
   date: '2008-09-01'
   orcid: 0000-0002-6432-3234
   plugin: orcid.py

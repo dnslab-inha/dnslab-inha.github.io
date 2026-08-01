@@ -1,4 +1,5 @@
 import json
+import re
 from urllib.request import Request, urlopen
 from util import *
 from manubot.cite.handlers import prefix_to_handler as manubot_citable
@@ -96,53 +97,77 @@ def main(entry):
             # id to cite with manubot
             source = {"id": f"{id_type}:{id_value}"}
 
-        # if not citable by manubot, keep citation details from orcid
-        else:
-            # get summaries
-            summaries = get_safe(work, "work-summary", [])
+        # ALWAYS extract and keep citation details from ORCID to avoid truncations 
+        # (e.g. missing subtitles or incorrect publisher data) from external providers.
+        # get summaries
+        summaries = get_safe(work, "work-summary", [])
 
-            # get first summary with defined sub-value
-            def first(get_func):
-                return next(
-                    (value for value in map(get_func, summaries) if value), None
-                )
-
-            # get title
-            title = first(lambda s: get_safe(s, "title.title.value", ""))
-
-            # get publisher
-            publisher = first(lambda s: get_safe(s, "journal-title.value", ""))
-
-            def get_pub_date(s):
-                year = get_safe(s, "publication-date.year.value")
-                if year:
-                    month = get_safe(s, "publication-date.month.value") or "1"
-                    day = get_safe(s, "publication-date.day.value") or "1"
-                    return f"{year}-{month}-{day}"
-                return None
-
-            # get date
-            date = (
-                first(get_pub_date)
-                or get_safe(work, "last-modified-date.value")
-                or first(lambda s: get_safe(s, "last-modified-date.value"))
-                or get_safe(work, "created-date.value")
-                or first(lambda s: get_safe(s, "created-date.value"))
-                or 0
+        # get first summary with defined sub-value
+        def first(get_func):
+            return next(
+                (value for value in map(get_func, summaries) if value), None
             )
 
-            # get link
-            link = first(lambda s: get_safe(s, "url.value", ""))
+        # get title
+        def get_title(s):
+            main_title = get_safe(s, "title.title.value", "")
+            sub_title = get_safe(s, "title.subtitle.value", "")
+            if main_title and sub_title:
+                if main_title.strip().endswith(":"):
+                    return f"{main_title.strip()} {sub_title.strip()}"
+                return f"{main_title.strip()}: {sub_title.strip()}"
+            return main_title or sub_title
+        
+        title = first(get_title)
 
-            # keep available details
-            if title:
-                source["title"] = title
-            if publisher:
-                source["publisher"] = publisher
-            if date:
-                source["date"] = format_date(date)
-            if link:
-                source["link"] = link
+        # get publisher
+        publisher = first(lambda s: get_safe(s, "journal-title.value", "")) or ""
+
+        # get type
+        work_type = first(lambda s: get_safe(s, "type"))
+
+        # adjust publisher based on type
+        if work_type == "conference-poster":
+            if publisher and "poster" not in publisher.lower():
+                publisher += " - Poster Session"
+            elif not publisher:
+                publisher = "Poster Session"
+        elif work_type == "patent":
+            if title and re.search(r'[가-힣]', title):
+                publisher = "Korean Patent"
+            else:
+                publisher = "Patent (Other than Korean)"
+
+        def get_pub_date(s):
+            year = get_safe(s, "publication-date.year.value")
+            if year:
+                month = get_safe(s, "publication-date.month.value") or "1"
+                day = get_safe(s, "publication-date.day.value") or "1"
+                return f"{year}-{month}-{day}"
+            return None
+
+        # get date
+        date = (
+            first(get_pub_date)
+            or get_safe(work, "last-modified-date.value")
+            or first(lambda s: get_safe(s, "last-modified-date.value"))
+            or get_safe(work, "created-date.value")
+            or first(lambda s: get_safe(s, "created-date.value"))
+            or 0
+        )
+
+        # get link
+        link = first(lambda s: get_safe(s, "url.value", ""))
+
+        # keep available details
+        if title:
+            source["title"] = title
+        if publisher:
+            source["publisher"] = publisher
+        if date:
+            source["date"] = format_date(date)
+        if link:
+            source["link"] = link
 
         # copy fields from entry to source
         source.update(entry)

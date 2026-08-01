@@ -3,7 +3,7 @@
 
 # Distributed and Networked Systems Lab. (DNSLab) @ Inha Univ.
 
-Distributed and Networked Systems Lab. (DNSLab) of the Department of Computer Engineering, Inha University located in the Incheon Metropolitan City, Republic of Korea is established by [Prof. Heejun Roh](https://hjroh.kr) on March 1, 2024. Currently, our research activities include (1) Network Telemetry including network traffic monitoring and classification, (2) Radio Frequency (RF)-powered computing and networking systems, (3) RF sensing and wireless coexistence, and (4) design, implementation, and analysis of various network protocols and networked systems.
+Distributed and Networked Systems Lab. (DNSLab; 분산네트워크시스템연구실) of the Department of Computer Engineering, Inha University located in the Incheon Metropolitan City, Republic of Korea is established by [Prof. Heejun Roh](https://hjroh.kr) on March 1, 2024, succeeding [Defensible Networked Systems Lab. (DNSLab; 방어네트워크시스템연구실) @ KU Sejong](./dnslab.korea.ac.kr/). Currently, our research activities include (1) Network Telemetry including network traffic monitoring and classification, (2) Radio Frequency (RF)-powered computing and networking systems, (3) RF sensing and wireless coexistence, and (4) design, implementation, and analysis of various network protocols and networked systems.
 
 {% include section.html %}
 

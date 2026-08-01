@@ -254,7 +254,7 @@
   plugin: sources.py
   file: sources.yaml
 - title: Method and Apparatus for Controlling Client Connection in MU-MIMO Networks
-  date: '2017-04-20'
+  date: '2017-02-06'
   link: https://goo.gl/Py01cd
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
@@ -344,7 +344,7 @@
 - title: "\uB178\uB4DC \uAC04 \uAC70\uB9AC \uC778\uC790 \uC124\uACC4 \uC7A5\uCE58\
     \ \uBC0F \uBC29\uBC95 (Apparatus and Method for Distance Metric Design between\
     \ Nodes)"
-  date: '2017-04-20'
+  date: '2015-07-15'
   link: https://goo.gl/wxrU71
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
@@ -352,7 +352,7 @@
 - title: Joint Gateway and Relay Foadside Unit Placement in Vehicular Networks
   publisher: "\uD55C\uAD6D\uBA40\uD2F0\uBBF8\uB514\uC5B4 \uD559\uD68C\uC9C0 (Korea\
     \ Multimedia Society Magazine)"
-  date: '2017-04-20'
+  date: '2015-06-01'
   link: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE06545477
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
@@ -361,7 +361,7 @@
     \ \uCE21\uC704 \uAE30\uBC95 (Indoor Localization using RSSI Standard Deviation)"
   publisher: "\uC81C 24\uD68C \uD1B5\uC2E0\uC815\uBCF4 \uD569\uB3D9\uD559\uC220\uB300\
     \uD68C"
-  date: '2017-09-24'
+  date: '2014-04-23'
   link: http://www.eiric.or.kr/literature/ser_view.php?searchCate=literature&SnxGubun=INME&gu=INME016A4&cmd=qryview&SnxIndxNum=189935&rownum=&totalCnt=3&rownum=3&q1_t=64W47Z2s7KSA&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP3NlYXJjaENhdGU9bGl0ZXJhdHVyZSZTbnhHdWJ1bj1JTk1FJmYxPU1OJnExPSVCMyVFQiVDOCVGMSVDMSVEOA==&q1=%B3%EB%C8%F1%C1%D8
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
@@ -383,7 +383,7 @@
     \uC778 \uBE0C\uB85C\uB4DC\uCE90\uC2A4\uD305 \uAE30\uBC95 (An Efficient Broadcasting\
     \ Method based on VM-CDS in Vehicular Ad-hoc Networks)"
   publisher: 'Journal of KIISE: Information Networking'
-  date: '2017-04-20'
+  date: '2013-06-01'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02194016
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
@@ -435,7 +435,7 @@
     \ in Mobile Tethering-based Cooperative Heterogeneous Networks)"
   publisher: "\uC815\uBCF4\uACFC\uD559\uD68C\uB17C\uBB38\uC9C0: \uCEF4\uD4E8\uD305\
     \uC758 \uC2E4\uC81C \uBC0F \uB808\uD130"
-  date: '2017-04-20'
+  date: '2013-04-01'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02136809
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
@@ -472,7 +472,7 @@
     \ of Mobile Tethering-based Cooperative Networks)"
   publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD559\uC220\uBC1C\uD45C\uB17C\
     \uBB38\uC9D1"
-  date: '2017-04-20'
+  date: '2012-11-01'
   link: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE02058165
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
@@ -603,7 +603,7 @@
     Wireless Ad Hoc Networks'
   publisher: the 14th ACM Annual International Conference on Mobile Computing and
     Networking (ACM MobiCom'2008)
-  date: '2017-04-20'
+  date: '2008-09-01'
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml

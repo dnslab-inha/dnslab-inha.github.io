@@ -252,10 +252,13 @@
   orcid: 0000-0002-6432-3234
   plugin: sources.py
   file: sources.yaml
-- title: Method and Apparatus for Controlling Client Connection in MU-MIMO Networks
-  publisher: Patent (Other than Korean)
+- title: "\uB2E4\uC911 \uC0AC\uC6A9\uC790 \uB2E4\uC911 \uC548\uD14C\uB098 \uB124\uD2B8\
+    \uC6CC\uD06C\uC5D0\uC11C \uD074\uB77C\uC774\uC5B8\uD2B8 \uC5F0\uACB0 \uC81C\uC5B4\
+    \ \uBC29\uBC95 \uBC0F \uC7A5\uCE58 (Method and Apparatus for Controlling Client\
+    \ Connection in MU-MIMO Networks)"
+  publisher: Korean Patent
   date: '2017-02-06'
-  link: https://goo.gl/Py01cd
+  link: https://www.ipon.co.kr/patent/66633
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
@@ -350,7 +353,7 @@
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
-- title: Joint Gateway and Relay Foadside Unit Placement in Vehicular Networks
+- title: Joint Gateway and Relay Roadside Unit Placement in Vehicular Networks
   publisher: "\uD55C\uAD6D\uBA40\uD2F0\uBBF8\uB514\uC5B4 \uD559\uD68C\uC9C0 (Korea\
     \ Multimedia Society Magazine)"
   date: '2015-06-01'
@@ -360,8 +363,8 @@
   file: orcid.yaml
 - title: "RSSI\uC758 \uD45C\uC900\uD3B8\uCC28\uB97C \uD65C\uC6A9\uD55C \uC2E4\uB0B4\
     \ \uCE21\uC704 \uAE30\uBC95 (Indoor Localization using RSSI Standard Deviation)"
-  publisher: "\uC81C 24\uD68C \uD1B5\uC2E0\uC815\uBCF4 \uD569\uB3D9\uD559\uC220\uB300\
-    \uD68C"
+  publisher: "The 24th Joint Conference on Communications and Information 2014 (\uC81C\
+    \ 24\uD68C \uD1B5\uC2E0\uC815\uBCF4 \uD569\uB3D9\uD559\uC220\uB300\uD68C)"
   date: '2014-04-23'
   link: http://www.eiric.or.kr/literature/ser_view.php?searchCate=literature&SnxGubun=INME&gu=INME016A4&cmd=qryview&SnxIndxNum=189935&rownum=&totalCnt=3&rownum=3&q1_t=64W47Z2s7KSA&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP3NlYXJjaENhdGU9bGl0ZXJhdHVyZSZTbnhHdWJ1bj1JTk1FJmYxPU1OJnExPSVCMyVFQiVDOCVGMSVDMSVEOA==&q1=%B3%EB%C8%F1%C1%D8
   orcid: 0000-0002-6432-3234
@@ -383,7 +386,8 @@
 - title: "VM-CDS\uB97C \uC774\uC6A9\uD55C VANET\uC5D0\uC11C\uC758 \uD6A8\uC728\uC801\
     \uC778 \uBE0C\uB85C\uB4DC\uCE90\uC2A4\uD305 \uAE30\uBC95 (An Efficient Broadcasting\
     \ Method based on VM-CDS in Vehicular Ad-hoc Networks)"
-  publisher: 'Journal of KIISE: Information Networking'
+  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C\uB17C\uBB38\uC9C0: \uC815\
+    \uBCF4\uD1B5\uC2E0 (Journal of KIISE: Information Networking)"
   date: '2013-06-01'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02194016
   orcid: 0000-0002-6432-3234
@@ -437,7 +441,8 @@
     \ \uB124\uD2B8\uC6CC\uD06C\uC758 \uD6A8\uC6A9 \uCD5C\uB300\uD654 (Utility Maximization\
     \ in Mobile Tethering-based Cooperative Heterogeneous Networks)"
   publisher: "\uC815\uBCF4\uACFC\uD559\uD68C\uB17C\uBB38\uC9C0: \uCEF4\uD4E8\uD305\
-    \uC758 \uC2E4\uC81C \uBC0F \uB808\uD130"
+    \uC758 \uC2E4\uC81C \uBC0F \uB808\uD130 (Journal of KIISE: Computing Practices\
+    \ and Letters)"
   date: '2013-04-01'
   link: http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02136809
   orcid: 0000-0002-6432-3234
@@ -474,8 +479,8 @@
 - title: "\uBAA8\uBC14\uC77C \uD14C\uB354\uB9C1 \uAE30\uBC18 \uD611\uB825 \uB124\uD2B8\
     \uC6CC\uD06C \uAD6C\uC131\uC758 \uAC00\uB2A5\uC131 \uBD84\uC11D (Feasibility Analysis\
     \ of Mobile Tethering-based Cooperative Networks)"
-  publisher: "\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\uD68C \uD559\uC220\uBC1C\uD45C\uB17C\
-    \uBB38\uC9D1"
+  publisher: "Proceedings of the KIISE Conference (\uD55C\uAD6D\uC815\uBCF4\uACFC\uD559\
+    \uD68C \uD559\uC220\uBC1C\uD45C\uB17C\uBB38\uC9D1)"
   date: '2012-11-01'
   link: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE02058165
   orcid: 0000-0002-6432-3234
@@ -614,6 +619,17 @@
   orcid: 0000-0002-6432-3234
   plugin: orcid.py
   file: orcid.yaml
+- title: Fingerprinting RTC applications via RTP header extensions
+  authors:
+  - Yaechan Lee
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: ICT Express
+  date: '2027-02-01'
+  link: https://doi.org/10.1016/j.icte.2026.07.022
+  doi-id: 10.1016/j.icte.2026.07.022
+  plugin: sources.py
+  file: sources.yaml
 - title: 'fpnt: A Flexible Preprocessing Framework for Network Traffic Analysis'
   authors:
   - Heejun Roh

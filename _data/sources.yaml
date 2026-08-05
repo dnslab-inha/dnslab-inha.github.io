@@ -1,4 +1,15 @@
 # 2026
+- title: "Fingerprinting RTC applications via RTP header extensions"
+  authors:
+  - Yaechan Lee
+  - Heejun Roh
+  - Wonjun Lee
+  publisher: ICT Express
+  date: '2027-02-01'
+  link: https://doi.org/10.1016/j.icte.2026.07.022
+  doi-id: 10.1016/j.icte.2026.07.022
+  plugin: sources.py
+  file: sources.yaml
 - title: "fpnt: A Flexible Preprocessing Framework for Network Traffic Analysis" # double quote since colon disturbs YAML validation.
   authors:
   - Heejun Roh

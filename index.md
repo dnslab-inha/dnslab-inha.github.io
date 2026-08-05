@@ -3,18 +3,18 @@
 
 # Distributed and Networked Systems Lab. (DNSLab) @ Inha Univ.
 
-Distributed and Networked Systems Lab. (DNSLab; 분산네트워크시스템연구실) of the Department of Computer Engineering, Inha University located in the Incheon Metropolitan City, Republic of Korea is established by [Prof. Heejun Roh](https://hjroh.kr) on March 1, 2024, succeeding [Defensible Networked Systems Lab. (DNSLab; 방어네트워크시스템연구실) @ KU Sejong](./dnslab.korea.ac.kr/). Currently, our research activities include (1) Network Telemetry including network traffic monitoring and classification, (2) Radio Frequency (RF)-powered computing and networking systems, (3) RF sensing and wireless coexistence, and (4) design, implementation, and analysis of various network protocols and networked systems.
+**Distributed and Networked Systems Lab. (DNSLab; 분산네트워크시스템연구실)** of the Department of Computer Engineering, Inha University located in the Incheon Metropolitan City, Republic of Korea is established by [Prof. Heejun Roh](https://hjroh.kr) on March 1, 2024, succeeding [Defensible Networked Systems Lab. (DNSLab; 방어네트워크시스템연구실) @ KU Sejong](./dnslab.korea.ac.kr/). Currently, our research activities include (1) Network Telemetry including network traffic monitoring and classification, (2) Radio Frequency (RF)-powered computing and networking systems, (3) RF sensing and wireless coexistence, and (4) design, implementation, and analysis of various network protocols and networked systems.
 
 {% include section.html %}
 
 ## Highlights
 
-* [Aug. 2026] Yaechan Lee et al.'s paper is accepted for publication in Elsevier ICT Express journal (SCI-E I/F 4.6). Yaechan Lee publishes this SCI-E journal article during his undergraduate course! Congratulation!!
+* [Aug. 2026] Yaechan Lee, et al.'s paper is accepted for publication in Elsevier ICT Express journal (SCI-E I/F 4.6). Yaechan Lee publishes this SCI-E journal article during his undergraduate studies! Congratulation!!
 * [Jul. 2026] Prof. Heejun Roh's paper is accepted for publication in Elsevier Computer Networks journal (SCI-E I/F 4.7). The related open-source software codebase can be found in [the fpnt GitHub Repository](https://github.com/dnslab-inha/fpnt) and [fpnt Documentation](https://dnslab-inha.github.io/fpnt/index.html).
-* [Feb. 2026] Yaechan Lee et al.'s paper received an Undergraduate Outstanding Paper award (장려상) from [KIISE](https://www.kiise.or.kr) KSC 2025! Congratulation!!
+* [Feb. 2026] Yaechan Lee, et al.'s paper received an Undergraduate Outstanding Paper award (장려상) from [KIISE](https://www.kiise.or.kr) KSC 2025! Congratulation!!
 * [Feb. 2026] Kangwook Kim and Prof. Heejun Roh's paper received an Undergraduate Outstanding Paper award (우수상) from [KIISE](https://www.kiise.or.kr) KSC 2025! Congratulation!!
-* [Feb. 2025] Byeonghyeon Jeon et al.'s paper received an Undergraduate Outstanding Paper award (우수상) from [KIISE](https://www.kiise.or.kr) KSC 2024! Congratulation!!
-* [Dec. 2024] Byeonghyeon Jeon et al. presented a paper in [KIISE](https://www.kiise.or.kr) Korea Software Congress (KSC) 2024 - Undergraduate Poster Session! Congratulation!!
+* [Feb. 2025] Byeonghyeon Jeon, et al.'s paper received an Undergraduate Outstanding Paper award (우수상) from [KIISE](https://www.kiise.or.kr) KSC 2024! Congratulation!!
+* [Dec. 2024] Byeonghyeon Jeon, et al. presented a paper in [KIISE](https://www.kiise.or.kr) Korea Software Congress (KSC) 2024 - Undergraduate Poster Session! Congratulation!!
 * [Jun. 2024] Prof. Roh's paper on QUIC Website Fingerprinting has been published in ICT Express (SCI-E)!
 * [Jun. 2024] Byeonghyeon Jeon presented a paper in [KICS](https://www.kics.or.kr) Summer Conference 2024 - Undergraduate Session and recived an Undergraduate Outstanding Paper award (장려상)! Congratulation!!
 
